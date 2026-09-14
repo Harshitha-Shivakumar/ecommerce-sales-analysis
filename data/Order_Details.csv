@@ -1,0 +1,1659 @@
+Order_ID,Line_Item,Product,Category,Quantity,Selling_Price,Unit_Cost
+ORD00001,1,Bedsheet,Home & Kitchen,4,959,560
+ORD00001,2,Power Bank,Electronics,2,959,580
+ORD00001,3,Men's Watch,Accessories,2,1439,850
+ORD00002,1,Men's T-Shirt,Clothing,1,499,280
+ORD00003,1,Sunglasses,Accessories,2,611,260
+ORD00004,1,Power Bank,Electronics,5,1019,580
+ORD00005,1,Women's Sandals,Footwear,4,845,500
+ORD00006,1,Women's Sandals,Footwear,1,917,500
+ORD00006,2,Backpack,Accessories,5,917,480
+ORD00007,1,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00007,2,Men's Jeans,Clothing,2,1019,570
+ORD00008,1,Smartphone,Electronics,3,15299,12500
+ORD00009,1,Water Bottle,Home & Kitchen,5,407,180
+ORD00010,1,Bluetooth Earbuds,Electronics,3,1503,950
+ORD00010,2,Coffee Mug,Home & Kitchen,3,281,110
+ORD00011,1,Men's Wallet,Accessories,3,305,120
+ORD00011,2,Men's T-Shirt,Clothing,5,509,280
+ORD00012,1,Sunglasses,Accessories,1,575,260
+ORD00012,2,Women's Kurti,Clothing,3,767,430
+ORD00012,3,Men's T-Shirt,Clothing,5,479,280
+ORD00013,1,Women's Kurti,Clothing,5,815,430
+ORD00014,1,Bluetooth Earbuds,Electronics,4,1503,950
+ORD00015,1,Coffee Mug,Home & Kitchen,5,299,110
+ORD00015,2,Backpack,Accessories,5,899,480
+ORD00016,1,Men's Watch,Accessories,3,1409,850
+ORD00016,2,Women's Sandals,Footwear,1,845,500
+ORD00016,3,Men's Wallet,Accessories,5,281,120
+ORD00017,1,Men's Shirt,Clothing,2,699,350
+ORD00017,2,Men's Watch,Accessories,5,1499,850
+ORD00018,1,Women's Sandals,Footwear,2,917,500
+ORD00019,1,Bedsheet,Home & Kitchen,1,959,560
+ORD00019,2,Men's Wallet,Accessories,3,287,120
+ORD00020,1,Men's Watch,Accessories,5,1529,850
+ORD00020,2,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00021,1,Sunglasses,Accessories,4,599,260
+ORD00021,2,Coffee Mug,Home & Kitchen,2,299,110
+ORD00022,1,Men's Shirt,Clothing,3,671,350
+ORD00023,1,Bedsheet,Home & Kitchen,1,999,560
+ORD00023,2,Men's Wallet,Accessories,2,299,120
+ORD00023,3,Sunglasses,Accessories,5,599,260
+ORD00024,1,Men's Shirt,Clothing,2,699,350
+ORD00025,1,Men's Watch,Accessories,2,1499,850
+ORD00025,2,Smartphone,Electronics,3,14999,12500
+ORD00025,3,Water Bottle,Home & Kitchen,1,399,180
+ORD00026,1,Smartphone,Electronics,3,14999,12500
+ORD00026,2,Men's Sneakers,Footwear,5,1299,780
+ORD00027,1,Women's Sandals,Footwear,1,899,500
+ORD00028,1,Men's T-Shirt,Clothing,4,469,280
+ORD00028,2,Water Bottle,Home & Kitchen,2,375,180
+ORD00029,1,Sunglasses,Accessories,2,611,260
+ORD00030,1,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00031,1,Men's Sneakers,Footwear,3,1247,780
+ORD00031,2,Bluetooth Earbuds,Electronics,5,1535,950
+ORD00032,1,Power Bank,Electronics,3,939,580
+ORD00033,1,Bedsheet,Home & Kitchen,4,1019,560
+ORD00033,2,Water Bottle,Home & Kitchen,1,407,180
+ORD00034,1,Smartphone,Electronics,3,14099,12500
+ORD00035,1,Men's Jeans,Clothing,1,999,570
+ORD00035,2,Men's Shirt,Clothing,5,699,350
+ORD00036,1,Men's Watch,Accessories,5,1499,850
+ORD00037,1,Men's Shirt,Clothing,1,713,350
+ORD00038,1,Bedsheet,Home & Kitchen,4,1019,560
+ORD00039,1,Water Bottle,Home & Kitchen,2,399,180
+ORD00039,2,Backpack,Accessories,2,899,480
+ORD00039,3,Power Bank,Electronics,5,999,580
+ORD00040,1,Men's Watch,Accessories,3,1529,850
+ORD00040,2,Men's Sneakers,Footwear,4,1325,780
+ORD00040,3,Bedsheet,Home & Kitchen,4,1019,560
+ORD00041,1,Men's Jeans,Clothing,1,1019,570
+ORD00042,1,Women's Kurti,Clothing,4,815,430
+ORD00042,2,Smartphone,Electronics,4,15299,12500
+ORD00043,1,Backpack,Accessories,5,899,480
+ORD00043,2,Bluetooth Earbuds,Electronics,2,1599,950
+ORD00043,3,Men's Sneakers,Footwear,4,1299,780
+ORD00044,1,Men's Shirt,Clothing,3,699,350
+ORD00045,1,Men's Wallet,Accessories,1,287,120
+ORD00045,2,Coffee Mug,Home & Kitchen,5,287,110
+ORD00046,1,Women's Kurti,Clothing,3,815,430
+ORD00047,1,Men's T-Shirt,Clothing,5,499,280
+ORD00047,2,Men's Sneakers,Footwear,1,1299,780
+ORD00048,1,Men's Wallet,Accessories,3,305,120
+ORD00048,2,Sunglasses,Accessories,2,611,260
+ORD00048,3,Women's Kurti,Clothing,2,815,430
+ORD00049,1,Men's Wallet,Accessories,5,305,120
+ORD00050,1,Men's T-Shirt,Clothing,2,499,280
+ORD00051,1,Water Bottle,Home & Kitchen,3,375,180
+ORD00052,1,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00052,2,Men's Wallet,Accessories,2,305,120
+ORD00052,3,Smartphone,Electronics,2,15299,12500
+ORD00053,1,Bedsheet,Home & Kitchen,2,999,560
+ORD00053,2,Sunglasses,Accessories,1,599,260
+ORD00053,3,Men's Jeans,Clothing,1,999,570
+ORD00054,1,Men's Jeans,Clothing,4,1019,570
+ORD00054,2,Men's T-Shirt,Clothing,4,509,280
+ORD00055,1,Sunglasses,Accessories,4,599,260
+ORD00056,1,Men's Watch,Accessories,5,1409,850
+ORD00056,2,Sunglasses,Accessories,4,563,260
+ORD00057,1,Men's Watch,Accessories,5,1529,850
+ORD00057,2,Bedsheet,Home & Kitchen,1,1019,560
+ORD00057,3,Men's Wallet,Accessories,2,305,120
+ORD00058,1,Sunglasses,Accessories,2,611,260
+ORD00058,2,Men's Shirt,Clothing,3,713,350
+ORD00059,1,Water Bottle,Home & Kitchen,1,407,180
+ORD00060,1,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00061,1,Men's Shirt,Clothing,5,657,350
+ORD00062,1,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00063,1,Coffee Mug,Home & Kitchen,5,299,110
+ORD00063,2,Men's T-Shirt,Clothing,3,499,280
+ORD00063,3,Women's Kurti,Clothing,3,799,430
+ORD00064,1,Men's Jeans,Clothing,2,959,570
+ORD00064,2,Women's Sandals,Footwear,4,863,500
+ORD00064,3,Backpack,Accessories,1,863,480
+ORD00065,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00066,1,Women's Kurti,Clothing,5,799,430
+ORD00067,1,Backpack,Accessories,3,899,480
+ORD00068,1,Backpack,Accessories,4,845,480
+ORD00068,2,Men's Sneakers,Footwear,5,1221,780
+ORD00069,1,Men's T-Shirt,Clothing,4,499,280
+ORD00070,1,Smartphone,Electronics,5,14999,12500
+ORD00071,1,Men's Jeans,Clothing,2,939,570
+ORD00072,1,Coffee Mug,Home & Kitchen,2,305,110
+ORD00072,2,Bedsheet,Home & Kitchen,3,1019,560
+ORD00072,3,Smartphone,Electronics,5,15299,12500
+ORD00073,1,Backpack,Accessories,1,899,480
+ORD00074,1,Men's Watch,Accessories,4,1409,850
+ORD00074,2,Men's Wallet,Accessories,5,281,120
+ORD00074,3,Men's Shirt,Clothing,5,657,350
+ORD00075,1,Power Bank,Electronics,3,1019,580
+ORD00076,1,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00076,2,Coffee Mug,Home & Kitchen,2,299,110
+ORD00077,1,Men's Wallet,Accessories,1,299,120
+ORD00077,2,Backpack,Accessories,4,899,480
+ORD00078,1,Women's Sandals,Footwear,2,899,500
+ORD00079,1,Men's Sneakers,Footwear,4,1325,780
+ORD00080,1,Women's Kurti,Clothing,1,767,430
+ORD00081,1,Men's Sneakers,Footwear,3,1247,780
+ORD00082,1,Men's Watch,Accessories,3,1499,850
+ORD00083,1,Bedsheet,Home & Kitchen,2,999,560
+ORD00084,1,Women's Kurti,Clothing,2,799,430
+ORD00085,1,Bluetooth Earbuds,Electronics,5,1503,950
+ORD00085,2,Water Bottle,Home & Kitchen,2,375,180
+ORD00085,3,Men's Shirt,Clothing,5,657,350
+ORD00086,1,Women's Kurti,Clothing,3,815,430
+ORD00087,1,Sunglasses,Accessories,3,563,260
+ORD00087,2,Men's Wallet,Accessories,1,281,120
+ORD00088,1,Women's Sandals,Footwear,2,917,500
+ORD00088,2,Backpack,Accessories,5,917,480
+ORD00088,3,Bedsheet,Home & Kitchen,2,1019,560
+ORD00089,1,Men's T-Shirt,Clothing,5,469,280
+ORD00089,2,Women's Kurti,Clothing,3,751,430
+ORD00090,1,Men's Sneakers,Footwear,1,1325,780
+ORD00091,1,Men's Watch,Accessories,1,1499,850
+ORD00092,1,Power Bank,Electronics,3,939,580
+ORD00092,2,Water Bottle,Home & Kitchen,3,375,180
+ORD00093,1,Men's T-Shirt,Clothing,5,509,280
+ORD00094,1,Men's Watch,Accessories,3,1409,850
+ORD00094,2,Men's Sneakers,Footwear,2,1221,780
+ORD00095,1,Men's Jeans,Clothing,1,1019,570
+ORD00096,1,Men's Jeans,Clothing,2,959,570
+ORD00097,1,Men's Shirt,Clothing,1,713,350
+ORD00097,2,Women's Sandals,Footwear,2,917,500
+ORD00097,3,Men's T-Shirt,Clothing,5,509,280
+ORD00098,1,Backpack,Accessories,3,899,480
+ORD00099,1,Water Bottle,Home & Kitchen,5,383,180
+ORD00100,1,Bluetooth Earbuds,Electronics,3,1631,950
+ORD00100,2,Water Bottle,Home & Kitchen,1,407,180
+ORD00101,1,Men's T-Shirt,Clothing,4,469,280
+ORD00101,2,Smartphone,Electronics,5,14099,12500
+ORD00102,1,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00103,1,Women's Sandals,Footwear,3,917,500
+ORD00103,2,Men's T-Shirt,Clothing,1,509,280
+ORD00103,3,Men's Watch,Accessories,4,1529,850
+ORD00104,1,Sunglasses,Accessories,3,599,260
+ORD00104,2,Men's Sneakers,Footwear,2,1299,780
+ORD00104,3,Men's Wallet,Accessories,4,299,120
+ORD00105,1,Backpack,Accessories,3,899,480
+ORD00105,2,Coffee Mug,Home & Kitchen,1,299,110
+ORD00106,1,Bedsheet,Home & Kitchen,3,939,560
+ORD00107,1,Smartphone,Electronics,2,14099,12500
+ORD00107,2,Men's Wallet,Accessories,2,281,120
+ORD00107,3,Men's Watch,Accessories,5,1409,850
+ORD00108,1,Coffee Mug,Home & Kitchen,3,281,110
+ORD00109,1,Women's Kurti,Clothing,2,799,430
+ORD00109,2,Men's Sneakers,Footwear,4,1299,780
+ORD00109,3,Men's Wallet,Accessories,3,299,120
+ORD00110,1,Men's Shirt,Clothing,1,713,350
+ORD00110,2,Women's Sandals,Footwear,4,917,500
+ORD00111,1,Smartphone,Electronics,1,15299,12500
+ORD00112,1,Coffee Mug,Home & Kitchen,4,287,110
+ORD00113,1,Men's Sneakers,Footwear,2,1325,780
+ORD00114,1,Bedsheet,Home & Kitchen,3,959,560
+ORD00115,1,Men's Sneakers,Footwear,4,1247,780
+ORD00115,2,Power Bank,Electronics,1,959,580
+ORD00116,1,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00117,1,Men's Watch,Accessories,5,1439,850
+ORD00117,2,Women's Sandals,Footwear,5,863,500
+ORD00117,3,Backpack,Accessories,2,863,480
+ORD00118,1,Bluetooth Earbuds,Electronics,5,1599,950
+ORD00119,1,Smartphone,Electronics,1,14399,12500
+ORD00119,2,Men's Sneakers,Footwear,4,1247,780
+ORD00119,3,Water Bottle,Home & Kitchen,5,383,180
+ORD00120,1,Power Bank,Electronics,4,999,580
+ORD00120,2,Men's Wallet,Accessories,4,299,120
+ORD00121,1,Sunglasses,Accessories,2,611,260
+ORD00122,1,Men's Sneakers,Footwear,1,1325,780
+ORD00122,2,Water Bottle,Home & Kitchen,2,407,180
+ORD00123,1,Water Bottle,Home & Kitchen,2,375,180
+ORD00124,1,Men's Wallet,Accessories,3,305,120
+ORD00125,1,Men's Wallet,Accessories,3,305,120
+ORD00126,1,Bedsheet,Home & Kitchen,4,959,560
+ORD00126,2,Men's Shirt,Clothing,2,671,350
+ORD00126,3,Backpack,Accessories,2,863,480
+ORD00127,1,Men's Shirt,Clothing,4,657,350
+ORD00128,1,Backpack,Accessories,2,899,480
+ORD00128,2,Women's Kurti,Clothing,4,799,430
+ORD00129,1,Men's Shirt,Clothing,4,671,350
+ORD00129,2,Men's Watch,Accessories,1,1439,850
+ORD00129,3,Men's T-Shirt,Clothing,5,479,280
+ORD00130,1,Women's Kurti,Clothing,1,799,430
+ORD00131,1,Bluetooth Earbuds,Electronics,5,1599,950
+ORD00131,2,Water Bottle,Home & Kitchen,5,399,180
+ORD00132,1,Smartphone,Electronics,3,15299,12500
+ORD00132,2,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00133,1,Men's Jeans,Clothing,2,959,570
+ORD00133,2,Men's Sneakers,Footwear,1,1247,780
+ORD00133,3,Men's Shirt,Clothing,3,671,350
+ORD00134,1,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00134,2,Men's T-Shirt,Clothing,5,499,280
+ORD00134,3,Men's Shirt,Clothing,2,699,350
+ORD00135,1,Water Bottle,Home & Kitchen,3,383,180
+ORD00136,1,Men's Wallet,Accessories,3,305,120
+ORD00137,1,Backpack,Accessories,3,845,480
+ORD00138,1,Women's Kurti,Clothing,4,799,430
+ORD00139,1,Women's Sandals,Footwear,1,917,500
+ORD00139,2,Men's Shirt,Clothing,1,713,350
+ORD00140,1,Bedsheet,Home & Kitchen,3,999,560
+ORD00140,2,Power Bank,Electronics,5,999,580
+ORD00140,3,Men's Jeans,Clothing,2,999,570
+ORD00141,1,Men's Jeans,Clothing,4,959,570
+ORD00141,2,Sunglasses,Accessories,5,575,260
+ORD00141,3,Men's Wallet,Accessories,2,287,120
+ORD00142,1,Water Bottle,Home & Kitchen,4,399,180
+ORD00142,2,Women's Sandals,Footwear,3,899,500
+ORD00143,1,Men's Watch,Accessories,4,1499,850
+ORD00144,1,Water Bottle,Home & Kitchen,2,375,180
+ORD00145,1,Backpack,Accessories,1,917,480
+ORD00146,1,Women's Sandals,Footwear,3,845,500
+ORD00146,2,Bedsheet,Home & Kitchen,5,939,560
+ORD00146,3,Men's T-Shirt,Clothing,4,469,280
+ORD00147,1,Men's Shirt,Clothing,5,713,350
+ORD00147,2,Water Bottle,Home & Kitchen,3,407,180
+ORD00147,3,Men's Watch,Accessories,1,1529,850
+ORD00148,1,Men's Sneakers,Footwear,4,1299,780
+ORD00149,1,Men's Shirt,Clothing,3,713,350
+ORD00150,1,Women's Sandals,Footwear,1,917,500
+ORD00150,2,Men's Jeans,Clothing,3,1019,570
+ORD00150,3,Men's Sneakers,Footwear,2,1325,780
+ORD00151,1,Smartphone,Electronics,5,14999,12500
+ORD00152,1,Men's T-Shirt,Clothing,1,509,280
+ORD00153,1,Water Bottle,Home & Kitchen,5,407,180
+ORD00154,1,Bedsheet,Home & Kitchen,3,999,560
+ORD00155,1,Bedsheet,Home & Kitchen,1,1019,560
+ORD00156,1,Women's Sandals,Footwear,3,917,500
+ORD00156,2,Coffee Mug,Home & Kitchen,3,305,110
+ORD00157,1,Smartphone,Electronics,3,14999,12500
+ORD00158,1,Women's Kurti,Clothing,5,815,430
+ORD00159,1,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00159,2,Women's Sandals,Footwear,3,899,500
+ORD00160,1,Women's Sandals,Footwear,3,863,500
+ORD00160,2,Smartphone,Electronics,5,14399,12500
+ORD00160,3,Bluetooth Earbuds,Electronics,3,1535,950
+ORD00161,1,Women's Sandals,Footwear,2,845,500
+ORD00161,2,Bedsheet,Home & Kitchen,1,939,560
+ORD00162,1,Bedsheet,Home & Kitchen,5,1019,560
+ORD00162,2,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00163,1,Backpack,Accessories,5,845,480
+ORD00164,1,Coffee Mug,Home & Kitchen,5,299,110
+ORD00164,2,Men's T-Shirt,Clothing,5,499,280
+ORD00165,1,Men's T-Shirt,Clothing,5,499,280
+ORD00165,2,Sunglasses,Accessories,3,599,260
+ORD00165,3,Bedsheet,Home & Kitchen,1,999,560
+ORD00166,1,Men's Watch,Accessories,2,1409,850
+ORD00167,1,Coffee Mug,Home & Kitchen,5,305,110
+ORD00167,2,Women's Sandals,Footwear,5,917,500
+ORD00168,1,Men's Jeans,Clothing,1,1019,570
+ORD00168,2,Men's Wallet,Accessories,3,305,120
+ORD00169,1,Water Bottle,Home & Kitchen,3,383,180
+ORD00169,2,Smartphone,Electronics,5,14399,12500
+ORD00169,3,Power Bank,Electronics,5,959,580
+ORD00170,1,Bedsheet,Home & Kitchen,3,1019,560
+ORD00170,2,Men's Watch,Accessories,4,1529,850
+ORD00171,1,Men's Shirt,Clothing,5,699,350
+ORD00171,2,Men's Wallet,Accessories,4,299,120
+ORD00171,3,Women's Sandals,Footwear,2,899,500
+ORD00172,1,Men's Shirt,Clothing,5,713,350
+ORD00172,2,Water Bottle,Home & Kitchen,3,407,180
+ORD00173,1,Bluetooth Earbuds,Electronics,4,1503,950
+ORD00174,1,Sunglasses,Accessories,3,599,260
+ORD00175,1,Sunglasses,Accessories,1,611,260
+ORD00176,1,Women's Kurti,Clothing,2,815,430
+ORD00176,2,Coffee Mug,Home & Kitchen,5,305,110
+ORD00177,1,Sunglasses,Accessories,5,611,260
+ORD00177,2,Bedsheet,Home & Kitchen,4,1019,560
+ORD00178,1,Women's Kurti,Clothing,3,799,430
+ORD00179,1,Women's Kurti,Clothing,4,767,430
+ORD00180,1,Men's Sneakers,Footwear,5,1247,780
+ORD00181,1,Men's T-Shirt,Clothing,5,509,280
+ORD00182,1,Smartphone,Electronics,3,14999,12500
+ORD00182,2,Power Bank,Electronics,5,999,580
+ORD00182,3,Backpack,Accessories,1,899,480
+ORD00183,1,Backpack,Accessories,2,917,480
+ORD00184,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00184,2,Men's Shirt,Clothing,4,713,350
+ORD00184,3,Backpack,Accessories,5,917,480
+ORD00185,1,Backpack,Accessories,3,917,480
+ORD00185,2,Men's Sneakers,Footwear,5,1325,780
+ORD00186,1,Bedsheet,Home & Kitchen,5,939,560
+ORD00186,2,Men's Watch,Accessories,2,1409,850
+ORD00187,1,Power Bank,Electronics,1,999,580
+ORD00188,1,Sunglasses,Accessories,1,599,260
+ORD00188,2,Men's Shirt,Clothing,5,699,350
+ORD00188,3,Power Bank,Electronics,2,999,580
+ORD00189,1,Sunglasses,Accessories,5,611,260
+ORD00189,2,Coffee Mug,Home & Kitchen,1,305,110
+ORD00190,1,Women's Kurti,Clothing,2,815,430
+ORD00190,2,Men's Jeans,Clothing,5,1019,570
+ORD00190,3,Men's T-Shirt,Clothing,2,509,280
+ORD00191,1,Smartphone,Electronics,4,15299,12500
+ORD00191,2,Water Bottle,Home & Kitchen,5,407,180
+ORD00192,1,Men's Shirt,Clothing,3,699,350
+ORD00193,1,Smartphone,Electronics,3,14399,12500
+ORD00193,2,Men's Sneakers,Footwear,1,1247,780
+ORD00193,3,Women's Sandals,Footwear,4,863,500
+ORD00194,1,Men's Wallet,Accessories,5,281,120
+ORD00195,1,Smartphone,Electronics,5,15299,12500
+ORD00195,2,Coffee Mug,Home & Kitchen,1,305,110
+ORD00196,1,Men's Wallet,Accessories,5,299,120
+ORD00196,2,Coffee Mug,Home & Kitchen,1,299,110
+ORD00197,1,Bedsheet,Home & Kitchen,1,999,560
+ORD00198,1,Sunglasses,Accessories,5,611,260
+ORD00198,2,Men's T-Shirt,Clothing,1,509,280
+ORD00199,1,Power Bank,Electronics,1,959,580
+ORD00200,1,Men's Wallet,Accessories,4,281,120
+ORD00200,2,Water Bottle,Home & Kitchen,1,375,180
+ORD00201,1,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00202,1,Sunglasses,Accessories,3,575,260
+ORD00203,1,Power Bank,Electronics,3,999,580
+ORD00204,1,Men's Jeans,Clothing,1,1019,570
+ORD00204,2,Women's Sandals,Footwear,2,917,500
+ORD00205,1,Men's Sneakers,Footwear,5,1221,780
+ORD00205,2,Sunglasses,Accessories,5,563,260
+ORD00205,3,Bluetooth Earbuds,Electronics,1,1503,950
+ORD00206,1,Men's Jeans,Clothing,4,1019,570
+ORD00206,2,Coffee Mug,Home & Kitchen,1,305,110
+ORD00207,1,Smartphone,Electronics,2,14999,12500
+ORD00207,2,Men's Watch,Accessories,2,1499,850
+ORD00208,1,Power Bank,Electronics,1,1019,580
+ORD00208,2,Smartphone,Electronics,3,15299,12500
+ORD00209,1,Water Bottle,Home & Kitchen,3,375,180
+ORD00209,2,Men's Shirt,Clothing,3,657,350
+ORD00210,1,Men's Jeans,Clothing,2,999,570
+ORD00211,1,Coffee Mug,Home & Kitchen,4,299,110
+ORD00212,1,Men's T-Shirt,Clothing,3,509,280
+ORD00213,1,Backpack,Accessories,4,899,480
+ORD00214,1,Men's T-Shirt,Clothing,5,499,280
+ORD00214,2,Water Bottle,Home & Kitchen,3,399,180
+ORD00215,1,Men's Watch,Accessories,1,1439,850
+ORD00215,2,Women's Sandals,Footwear,4,863,500
+ORD00215,3,Power Bank,Electronics,1,959,580
+ORD00216,1,Men's Watch,Accessories,3,1499,850
+ORD00217,1,Power Bank,Electronics,2,939,580
+ORD00218,1,Water Bottle,Home & Kitchen,2,375,180
+ORD00218,2,Sunglasses,Accessories,1,563,260
+ORD00218,3,Men's Shirt,Clothing,3,657,350
+ORD00219,1,Men's Wallet,Accessories,2,299,120
+ORD00219,2,Bedsheet,Home & Kitchen,2,999,560
+ORD00219,3,Women's Sandals,Footwear,1,899,500
+ORD00220,1,Men's Wallet,Accessories,4,305,120
+ORD00220,2,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00220,3,Men's T-Shirt,Clothing,1,509,280
+ORD00221,1,Coffee Mug,Home & Kitchen,5,281,110
+ORD00222,1,Men's Wallet,Accessories,2,281,120
+ORD00222,2,Women's Kurti,Clothing,2,751,430
+ORD00223,1,Men's Wallet,Accessories,4,299,120
+ORD00223,2,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00223,3,Men's Sneakers,Footwear,3,1299,780
+ORD00224,1,Men's T-Shirt,Clothing,2,509,280
+ORD00224,2,Sunglasses,Accessories,5,611,260
+ORD00225,1,Bluetooth Earbuds,Electronics,1,1631,950
+ORD00225,2,Smartphone,Electronics,1,15299,12500
+ORD00226,1,Women's Kurti,Clothing,1,799,430
+ORD00227,1,Smartphone,Electronics,4,14999,12500
+ORD00227,2,Backpack,Accessories,4,899,480
+ORD00228,1,Women's Kurti,Clothing,5,799,430
+ORD00229,1,Men's Shirt,Clothing,3,657,350
+ORD00229,2,Coffee Mug,Home & Kitchen,1,281,110
+ORD00230,1,Men's Sneakers,Footwear,1,1299,780
+ORD00231,1,Sunglasses,Accessories,1,563,260
+ORD00231,2,Women's Kurti,Clothing,2,751,430
+ORD00232,1,Coffee Mug,Home & Kitchen,2,287,110
+ORD00233,1,Men's T-Shirt,Clothing,1,499,280
+ORD00234,1,Women's Kurti,Clothing,2,751,430
+ORD00235,1,Women's Kurti,Clothing,3,751,430
+ORD00236,1,Sunglasses,Accessories,3,611,260
+ORD00237,1,Bedsheet,Home & Kitchen,1,939,560
+ORD00238,1,Backpack,Accessories,5,863,480
+ORD00239,1,Men's Wallet,Accessories,5,281,120
+ORD00239,2,Men's Sneakers,Footwear,2,1221,780
+ORD00240,1,Smartphone,Electronics,4,14999,12500
+ORD00240,2,Men's Wallet,Accessories,5,299,120
+ORD00241,1,Bluetooth Earbuds,Electronics,2,1503,950
+ORD00242,1,Bedsheet,Home & Kitchen,1,939,560
+ORD00243,1,Women's Sandals,Footwear,2,863,500
+ORD00244,1,Women's Kurti,Clothing,5,799,430
+ORD00244,2,Sunglasses,Accessories,1,599,260
+ORD00244,3,Men's Shirt,Clothing,2,699,350
+ORD00245,1,Water Bottle,Home & Kitchen,4,399,180
+ORD00245,2,Smartphone,Electronics,2,14999,12500
+ORD00245,3,Men's Wallet,Accessories,2,299,120
+ORD00246,1,Men's T-Shirt,Clothing,2,469,280
+ORD00246,2,Coffee Mug,Home & Kitchen,5,281,110
+ORD00247,1,Men's T-Shirt,Clothing,3,499,280
+ORD00248,1,Men's Wallet,Accessories,2,305,120
+ORD00248,2,Women's Sandals,Footwear,4,917,500
+ORD00248,3,Bedsheet,Home & Kitchen,3,1019,560
+ORD00249,1,Men's Sneakers,Footwear,3,1221,780
+ORD00249,2,Water Bottle,Home & Kitchen,3,375,180
+ORD00250,1,Men's Wallet,Accessories,2,305,120
+ORD00250,2,Women's Kurti,Clothing,5,815,430
+ORD00251,1,Power Bank,Electronics,5,999,580
+ORD00252,1,Bluetooth Earbuds,Electronics,2,1599,950
+ORD00253,1,Women's Sandals,Footwear,5,845,500
+ORD00254,1,Coffee Mug,Home & Kitchen,4,287,110
+ORD00255,1,Women's Kurti,Clothing,1,815,430
+ORD00256,1,Bedsheet,Home & Kitchen,1,1019,560
+ORD00257,1,Backpack,Accessories,1,845,480
+ORD00257,2,Men's Shirt,Clothing,4,657,350
+ORD00258,1,Backpack,Accessories,5,899,480
+ORD00259,1,Men's Watch,Accessories,1,1499,850
+ORD00260,1,Men's Jeans,Clothing,4,1019,570
+ORD00261,1,Coffee Mug,Home & Kitchen,5,305,110
+ORD00261,2,Sunglasses,Accessories,4,611,260
+ORD00261,3,Water Bottle,Home & Kitchen,2,407,180
+ORD00262,1,Men's Shirt,Clothing,5,657,350
+ORD00262,2,Water Bottle,Home & Kitchen,3,375,180
+ORD00263,1,Sunglasses,Accessories,4,599,260
+ORD00263,2,Men's Wallet,Accessories,5,299,120
+ORD00264,1,Sunglasses,Accessories,4,563,260
+ORD00264,2,Bluetooth Earbuds,Electronics,3,1503,950
+ORD00265,1,Women's Sandals,Footwear,3,917,500
+ORD00266,1,Backpack,Accessories,4,917,480
+ORD00266,2,Men's Wallet,Accessories,5,305,120
+ORD00267,1,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00267,2,Coffee Mug,Home & Kitchen,5,299,110
+ORD00268,1,Men's Shirt,Clothing,3,657,350
+ORD00269,1,Men's Watch,Accessories,3,1439,850
+ORD00270,1,Sunglasses,Accessories,1,575,260
+ORD00271,1,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00271,2,Men's T-Shirt,Clothing,4,509,280
+ORD00272,1,Men's Jeans,Clothing,5,1019,570
+ORD00272,2,Coffee Mug,Home & Kitchen,5,305,110
+ORD00273,1,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00274,1,Women's Kurti,Clothing,5,751,430
+ORD00275,1,Smartphone,Electronics,2,14099,12500
+ORD00275,2,Coffee Mug,Home & Kitchen,2,281,110
+ORD00275,3,Women's Sandals,Footwear,2,845,500
+ORD00276,1,Coffee Mug,Home & Kitchen,1,299,110
+ORD00276,2,Men's T-Shirt,Clothing,3,499,280
+ORD00277,1,Men's Sneakers,Footwear,5,1221,780
+ORD00277,2,Men's Wallet,Accessories,2,281,120
+ORD00277,3,Women's Kurti,Clothing,2,751,430
+ORD00278,1,Smartphone,Electronics,2,14399,12500
+ORD00278,2,Water Bottle,Home & Kitchen,1,383,180
+ORD00278,3,Sunglasses,Accessories,2,575,260
+ORD00279,1,Backpack,Accessories,3,899,480
+ORD00280,1,Women's Sandals,Footwear,2,899,500
+ORD00280,2,Smartphone,Electronics,3,14999,12500
+ORD00281,1,Women's Kurti,Clothing,5,751,430
+ORD00281,2,Men's T-Shirt,Clothing,3,469,280
+ORD00281,3,Men's Wallet,Accessories,1,281,120
+ORD00282,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00283,1,Men's T-Shirt,Clothing,1,509,280
+ORD00283,2,Smartphone,Electronics,1,15299,12500
+ORD00283,3,Backpack,Accessories,3,917,480
+ORD00284,1,Men's Wallet,Accessories,1,299,120
+ORD00285,1,Men's T-Shirt,Clothing,3,479,280
+ORD00286,1,Coffee Mug,Home & Kitchen,5,299,110
+ORD00286,2,Men's Jeans,Clothing,4,999,570
+ORD00287,1,Backpack,Accessories,3,899,480
+ORD00287,2,Men's Watch,Accessories,4,1499,850
+ORD00287,3,Smartphone,Electronics,2,14999,12500
+ORD00288,1,Men's Watch,Accessories,4,1529,850
+ORD00289,1,Women's Kurti,Clothing,4,799,430
+ORD00289,2,Sunglasses,Accessories,3,599,260
+ORD00290,1,Sunglasses,Accessories,1,611,260
+ORD00290,2,Men's Wallet,Accessories,1,305,120
+ORD00290,3,Bedsheet,Home & Kitchen,5,1019,560
+ORD00291,1,Men's Jeans,Clothing,1,999,570
+ORD00292,1,Backpack,Accessories,2,917,480
+ORD00292,2,Water Bottle,Home & Kitchen,5,407,180
+ORD00293,1,Bedsheet,Home & Kitchen,5,1019,560
+ORD00293,2,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00294,1,Water Bottle,Home & Kitchen,1,407,180
+ORD00295,1,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00296,1,Power Bank,Electronics,4,939,580
+ORD00297,1,Backpack,Accessories,5,899,480
+ORD00297,2,Men's Sneakers,Footwear,1,1299,780
+ORD00298,1,Women's Kurti,Clothing,4,815,430
+ORD00299,1,Men's Shirt,Clothing,5,671,350
+ORD00299,2,Women's Kurti,Clothing,4,767,430
+ORD00300,1,Sunglasses,Accessories,1,611,260
+ORD00300,2,Men's Watch,Accessories,2,1529,850
+ORD00301,1,Men's Watch,Accessories,1,1439,850
+ORD00302,1,Men's Shirt,Clothing,3,713,350
+ORD00303,1,Backpack,Accessories,2,845,480
+ORD00304,1,Men's Wallet,Accessories,4,299,120
+ORD00304,2,Men's T-Shirt,Clothing,1,499,280
+ORD00304,3,Smartphone,Electronics,1,14999,12500
+ORD00305,1,Men's Sneakers,Footwear,1,1299,780
+ORD00306,1,Men's Watch,Accessories,1,1529,850
+ORD00307,1,Bedsheet,Home & Kitchen,1,999,560
+ORD00307,2,Men's Sneakers,Footwear,4,1299,780
+ORD00308,1,Men's Shirt,Clothing,1,699,350
+ORD00308,2,Power Bank,Electronics,3,999,580
+ORD00309,1,Men's T-Shirt,Clothing,5,499,280
+ORD00309,2,Smartphone,Electronics,3,14999,12500
+ORD00310,1,Power Bank,Electronics,3,1019,580
+ORD00310,2,Women's Sandals,Footwear,4,917,500
+ORD00311,1,Men's T-Shirt,Clothing,5,479,280
+ORD00312,1,Smartphone,Electronics,4,14099,12500
+ORD00313,1,Bluetooth Earbuds,Electronics,3,1535,950
+ORD00313,2,Women's Sandals,Footwear,3,863,500
+ORD00313,3,Men's T-Shirt,Clothing,1,479,280
+ORD00314,1,Men's Shirt,Clothing,3,671,350
+ORD00315,1,Men's Jeans,Clothing,5,1019,570
+ORD00316,1,Power Bank,Electronics,5,1019,580
+ORD00317,1,Backpack,Accessories,3,899,480
+ORD00318,1,Water Bottle,Home & Kitchen,5,399,180
+ORD00318,2,Coffee Mug,Home & Kitchen,1,299,110
+ORD00318,3,Women's Kurti,Clothing,3,799,430
+ORD00319,1,Women's Sandals,Footwear,3,845,500
+ORD00320,1,Women's Kurti,Clothing,1,815,430
+ORD00321,1,Men's Watch,Accessories,3,1529,850
+ORD00321,2,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00322,1,Men's Sneakers,Footwear,4,1299,780
+ORD00323,1,Water Bottle,Home & Kitchen,1,399,180
+ORD00324,1,Women's Sandals,Footwear,4,863,500
+ORD00325,1,Power Bank,Electronics,2,1019,580
+ORD00325,2,Women's Kurti,Clothing,5,815,430
+ORD00325,3,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00326,1,Power Bank,Electronics,4,939,580
+ORD00327,1,Backpack,Accessories,5,917,480
+ORD00328,1,Men's T-Shirt,Clothing,1,499,280
+ORD00329,1,Women's Kurti,Clothing,5,815,430
+ORD00329,2,Men's Shirt,Clothing,1,713,350
+ORD00329,3,Power Bank,Electronics,2,1019,580
+ORD00330,1,Men's Wallet,Accessories,5,299,120
+ORD00331,1,Women's Kurti,Clothing,2,815,430
+ORD00331,2,Men's T-Shirt,Clothing,4,509,280
+ORD00332,1,Power Bank,Electronics,2,959,580
+ORD00332,2,Backpack,Accessories,1,863,480
+ORD00333,1,Coffee Mug,Home & Kitchen,1,281,110
+ORD00334,1,Men's Sneakers,Footwear,5,1221,780
+ORD00334,2,Power Bank,Electronics,3,939,580
+ORD00335,1,Men's Shirt,Clothing,2,657,350
+ORD00336,1,Power Bank,Electronics,4,1019,580
+ORD00336,2,Smartphone,Electronics,3,15299,12500
+ORD00337,1,Men's T-Shirt,Clothing,3,509,280
+ORD00337,2,Women's Sandals,Footwear,2,917,500
+ORD00337,3,Smartphone,Electronics,5,15299,12500
+ORD00338,1,Men's Sneakers,Footwear,5,1247,780
+ORD00339,1,Men's T-Shirt,Clothing,3,509,280
+ORD00339,2,Men's Watch,Accessories,2,1529,850
+ORD00340,1,Sunglasses,Accessories,3,611,260
+ORD00341,1,Bluetooth Earbuds,Electronics,5,1503,950
+ORD00342,1,Men's Jeans,Clothing,1,959,570
+ORD00342,2,Bedsheet,Home & Kitchen,2,959,560
+ORD00342,3,Coffee Mug,Home & Kitchen,5,287,110
+ORD00343,1,Women's Sandals,Footwear,4,917,500
+ORD00343,2,Water Bottle,Home & Kitchen,2,407,180
+ORD00343,3,Men's Shirt,Clothing,1,713,350
+ORD00344,1,Backpack,Accessories,3,845,480
+ORD00345,1,Men's Wallet,Accessories,5,281,120
+ORD00346,1,Men's Shirt,Clothing,3,713,350
+ORD00347,1,Power Bank,Electronics,1,999,580
+ORD00348,1,Women's Kurti,Clothing,1,799,430
+ORD00348,2,Men's Watch,Accessories,5,1499,850
+ORD00348,3,Smartphone,Electronics,1,14999,12500
+ORD00349,1,Women's Sandals,Footwear,2,863,500
+ORD00350,1,Women's Kurti,Clothing,3,799,430
+ORD00351,1,Sunglasses,Accessories,1,563,260
+ORD00351,2,Men's Shirt,Clothing,4,657,350
+ORD00352,1,Smartphone,Electronics,5,14099,12500
+ORD00353,1,Water Bottle,Home & Kitchen,2,383,180
+ORD00354,1,Water Bottle,Home & Kitchen,1,399,180
+ORD00355,1,Women's Kurti,Clothing,4,815,430
+ORD00355,2,Women's Sandals,Footwear,2,917,500
+ORD00356,1,Power Bank,Electronics,3,999,580
+ORD00357,1,Bedsheet,Home & Kitchen,3,999,560
+ORD00357,2,Women's Kurti,Clothing,1,799,430
+ORD00358,1,Men's Wallet,Accessories,3,305,120
+ORD00358,2,Bedsheet,Home & Kitchen,5,1019,560
+ORD00359,1,Men's T-Shirt,Clothing,4,509,280
+ORD00359,2,Men's Jeans,Clothing,1,1019,570
+ORD00360,1,Sunglasses,Accessories,3,575,260
+ORD00360,2,Coffee Mug,Home & Kitchen,4,287,110
+ORD00361,1,Men's Shirt,Clothing,3,671,350
+ORD00362,1,Men's Wallet,Accessories,1,287,120
+ORD00362,2,Men's Watch,Accessories,5,1439,850
+ORD00363,1,Men's Shirt,Clothing,4,713,350
+ORD00363,2,Men's Watch,Accessories,4,1529,850
+ORD00364,1,Sunglasses,Accessories,2,611,260
+ORD00364,2,Men's Jeans,Clothing,4,1019,570
+ORD00364,3,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00365,1,Coffee Mug,Home & Kitchen,5,281,110
+ORD00365,2,Men's T-Shirt,Clothing,4,469,280
+ORD00366,1,Women's Kurti,Clothing,3,751,430
+ORD00367,1,Men's Wallet,Accessories,3,305,120
+ORD00367,2,Backpack,Accessories,4,917,480
+ORD00368,1,Men's Wallet,Accessories,1,305,120
+ORD00369,1,Men's Jeans,Clothing,1,1019,570
+ORD00370,1,Coffee Mug,Home & Kitchen,4,287,110
+ORD00370,2,Men's Shirt,Clothing,1,671,350
+ORD00370,3,Men's T-Shirt,Clothing,2,479,280
+ORD00371,1,Women's Kurti,Clothing,1,815,430
+ORD00372,1,Men's Wallet,Accessories,2,299,120
+ORD00373,1,Power Bank,Electronics,2,999,580
+ORD00374,1,Women's Sandals,Footwear,4,899,500
+ORD00374,2,Men's Shirt,Clothing,1,699,350
+ORD00375,1,Men's T-Shirt,Clothing,5,509,280
+ORD00375,2,Men's Shirt,Clothing,4,713,350
+ORD00376,1,Backpack,Accessories,3,917,480
+ORD00376,2,Men's T-Shirt,Clothing,3,509,280
+ORD00376,3,Water Bottle,Home & Kitchen,4,407,180
+ORD00377,1,Men's T-Shirt,Clothing,3,469,280
+ORD00378,1,Men's T-Shirt,Clothing,3,509,280
+ORD00378,2,Coffee Mug,Home & Kitchen,1,305,110
+ORD00379,1,Water Bottle,Home & Kitchen,1,375,180
+ORD00379,2,Women's Kurti,Clothing,2,751,430
+ORD00380,1,Power Bank,Electronics,2,999,580
+ORD00381,1,Smartphone,Electronics,5,14999,12500
+ORD00382,1,Water Bottle,Home & Kitchen,2,407,180
+ORD00382,2,Coffee Mug,Home & Kitchen,3,305,110
+ORD00383,1,Smartphone,Electronics,1,15299,12500
+ORD00384,1,Men's Shirt,Clothing,5,657,350
+ORD00385,1,Men's T-Shirt,Clothing,1,499,280
+ORD00385,2,Men's Sneakers,Footwear,5,1299,780
+ORD00386,1,Men's Wallet,Accessories,3,305,120
+ORD00387,1,Power Bank,Electronics,2,939,580
+ORD00387,2,Men's Watch,Accessories,5,1409,850
+ORD00388,1,Water Bottle,Home & Kitchen,2,399,180
+ORD00389,1,Men's Wallet,Accessories,3,281,120
+ORD00389,2,Women's Kurti,Clothing,2,751,430
+ORD00389,3,Coffee Mug,Home & Kitchen,1,281,110
+ORD00390,1,Water Bottle,Home & Kitchen,5,399,180
+ORD00391,1,Men's Shirt,Clothing,5,713,350
+ORD00391,2,Smartphone,Electronics,5,15299,12500
+ORD00392,1,Smartphone,Electronics,5,14099,12500
+ORD00392,2,Women's Kurti,Clothing,4,751,430
+ORD00392,3,Backpack,Accessories,5,845,480
+ORD00393,1,Bedsheet,Home & Kitchen,1,939,560
+ORD00394,1,Power Bank,Electronics,3,999,580
+ORD00394,2,Men's Wallet,Accessories,1,299,120
+ORD00395,1,Water Bottle,Home & Kitchen,3,399,180
+ORD00396,1,Sunglasses,Accessories,4,599,260
+ORD00396,2,Power Bank,Electronics,4,999,580
+ORD00397,1,Sunglasses,Accessories,1,563,260
+ORD00397,2,Bedsheet,Home & Kitchen,4,939,560
+ORD00398,1,Coffee Mug,Home & Kitchen,4,305,110
+ORD00398,2,Water Bottle,Home & Kitchen,2,407,180
+ORD00399,1,Power Bank,Electronics,5,1019,580
+ORD00400,1,Women's Sandals,Footwear,4,899,500
+ORD00401,1,Backpack,Accessories,2,863,480
+ORD00401,2,Women's Sandals,Footwear,2,863,500
+ORD00402,1,Women's Sandals,Footwear,5,917,500
+ORD00403,1,Women's Sandals,Footwear,5,917,500
+ORD00403,2,Women's Kurti,Clothing,2,815,430
+ORD00403,3,Men's Shirt,Clothing,5,713,350
+ORD00404,1,Water Bottle,Home & Kitchen,1,407,180
+ORD00404,2,Bedsheet,Home & Kitchen,1,1019,560
+ORD00404,3,Backpack,Accessories,5,917,480
+ORD00405,1,Men's Watch,Accessories,4,1499,850
+ORD00405,2,Sunglasses,Accessories,3,599,260
+ORD00405,3,Women's Kurti,Clothing,1,799,430
+ORD00406,1,Water Bottle,Home & Kitchen,4,383,180
+ORD00407,1,Coffee Mug,Home & Kitchen,4,287,110
+ORD00407,2,Men's T-Shirt,Clothing,4,479,280
+ORD00408,1,Men's Sneakers,Footwear,1,1299,780
+ORD00409,1,Men's T-Shirt,Clothing,2,469,280
+ORD00410,1,Men's Wallet,Accessories,3,305,120
+ORD00411,1,Men's Jeans,Clothing,5,999,570
+ORD00411,2,Men's Wallet,Accessories,5,299,120
+ORD00411,3,Bedsheet,Home & Kitchen,5,999,560
+ORD00412,1,Men's Watch,Accessories,1,1499,850
+ORD00412,2,Power Bank,Electronics,1,999,580
+ORD00413,1,Men's Wallet,Accessories,2,281,120
+ORD00414,1,Men's Wallet,Accessories,3,299,120
+ORD00415,1,Bedsheet,Home & Kitchen,4,999,560
+ORD00415,2,Women's Sandals,Footwear,2,899,500
+ORD00415,3,Men's T-Shirt,Clothing,5,499,280
+ORD00416,1,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00417,1,Women's Kurti,Clothing,5,751,430
+ORD00417,2,Men's Sneakers,Footwear,1,1221,780
+ORD00417,3,Men's T-Shirt,Clothing,5,469,280
+ORD00418,1,Women's Kurti,Clothing,4,751,430
+ORD00418,2,Backpack,Accessories,2,845,480
+ORD00419,1,Bluetooth Earbuds,Electronics,1,1631,950
+ORD00420,1,Power Bank,Electronics,2,999,580
+ORD00420,2,Men's Watch,Accessories,3,1499,850
+ORD00421,1,Men's Shirt,Clothing,1,657,350
+ORD00421,2,Water Bottle,Home & Kitchen,2,375,180
+ORD00421,3,Men's Jeans,Clothing,5,939,570
+ORD00422,1,Sunglasses,Accessories,3,611,260
+ORD00423,1,Men's Shirt,Clothing,3,713,350
+ORD00424,1,Smartphone,Electronics,2,14399,12500
+ORD00424,2,Men's Shirt,Clothing,4,671,350
+ORD00425,1,Bedsheet,Home & Kitchen,5,999,560
+ORD00425,2,Water Bottle,Home & Kitchen,4,399,180
+ORD00425,3,Backpack,Accessories,3,899,480
+ORD00426,1,Men's Shirt,Clothing,1,657,350
+ORD00427,1,Men's T-Shirt,Clothing,2,509,280
+ORD00427,2,Sunglasses,Accessories,5,611,260
+ORD00428,1,Men's Sneakers,Footwear,3,1299,780
+ORD00428,2,Men's Shirt,Clothing,2,699,350
+ORD00429,1,Smartphone,Electronics,2,14099,12500
+ORD00429,2,Women's Sandals,Footwear,2,845,500
+ORD00429,3,Coffee Mug,Home & Kitchen,3,281,110
+ORD00430,1,Women's Sandals,Footwear,1,899,500
+ORD00430,2,Backpack,Accessories,2,899,480
+ORD00431,1,Men's Watch,Accessories,3,1529,850
+ORD00431,2,Water Bottle,Home & Kitchen,4,407,180
+ORD00432,1,Men's Watch,Accessories,4,1499,850
+ORD00433,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00433,2,Water Bottle,Home & Kitchen,3,407,180
+ORD00434,1,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00434,2,Men's Sneakers,Footwear,1,1325,780
+ORD00434,3,Coffee Mug,Home & Kitchen,5,305,110
+ORD00435,1,Power Bank,Electronics,3,999,580
+ORD00435,2,Women's Sandals,Footwear,5,899,500
+ORD00436,1,Smartphone,Electronics,2,14999,12500
+ORD00436,2,Men's Shirt,Clothing,5,699,350
+ORD00437,1,Men's Jeans,Clothing,3,999,570
+ORD00437,2,Women's Kurti,Clothing,5,799,430
+ORD00438,1,Men's Watch,Accessories,4,1529,850
+ORD00438,2,Women's Sandals,Footwear,3,917,500
+ORD00439,1,Men's Sneakers,Footwear,3,1299,780
+ORD00440,1,Power Bank,Electronics,2,999,580
+ORD00440,2,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00441,1,Sunglasses,Accessories,4,611,260
+ORD00442,1,Men's Jeans,Clothing,3,1019,570
+ORD00442,2,Bluetooth Earbuds,Electronics,3,1631,950
+ORD00443,1,Coffee Mug,Home & Kitchen,1,299,110
+ORD00443,2,Women's Kurti,Clothing,5,799,430
+ORD00443,3,Men's Watch,Accessories,5,1499,850
+ORD00444,1,Bedsheet,Home & Kitchen,2,999,560
+ORD00444,2,Power Bank,Electronics,4,999,580
+ORD00444,3,Bluetooth Earbuds,Electronics,5,1599,950
+ORD00445,1,Women's Sandals,Footwear,4,899,500
+ORD00445,2,Women's Kurti,Clothing,5,799,430
+ORD00445,3,Men's Sneakers,Footwear,5,1299,780
+ORD00446,1,Men's T-Shirt,Clothing,5,509,280
+ORD00447,1,Women's Sandals,Footwear,3,899,500
+ORD00447,2,Men's Wallet,Accessories,5,299,120
+ORD00447,3,Men's T-Shirt,Clothing,5,499,280
+ORD00448,1,Men's Sneakers,Footwear,4,1299,780
+ORD00449,1,Backpack,Accessories,5,917,480
+ORD00450,1,Men's T-Shirt,Clothing,2,509,280
+ORD00450,2,Women's Sandals,Footwear,3,917,500
+ORD00451,1,Power Bank,Electronics,3,1019,580
+ORD00451,2,Women's Kurti,Clothing,5,815,430
+ORD00452,1,Smartphone,Electronics,5,15299,12500
+ORD00453,1,Smartphone,Electronics,5,15299,12500
+ORD00453,2,Men's Jeans,Clothing,1,1019,570
+ORD00454,1,Coffee Mug,Home & Kitchen,4,281,110
+ORD00454,2,Men's Shirt,Clothing,5,657,350
+ORD00454,3,Sunglasses,Accessories,5,563,260
+ORD00455,1,Men's Wallet,Accessories,5,281,120
+ORD00455,2,Bluetooth Earbuds,Electronics,4,1503,950
+ORD00456,1,Backpack,Accessories,1,917,480
+ORD00456,2,Coffee Mug,Home & Kitchen,4,305,110
+ORD00457,1,Men's Sneakers,Footwear,4,1247,780
+ORD00458,1,Sunglasses,Accessories,4,611,260
+ORD00458,2,Women's Sandals,Footwear,3,917,500
+ORD00459,1,Men's Shirt,Clothing,4,713,350
+ORD00460,1,Women's Kurti,Clothing,4,799,430
+ORD00461,1,Coffee Mug,Home & Kitchen,2,281,110
+ORD00461,2,Backpack,Accessories,3,845,480
+ORD00462,1,Bedsheet,Home & Kitchen,5,939,560
+ORD00463,1,Men's Sneakers,Footwear,2,1299,780
+ORD00463,2,Backpack,Accessories,5,899,480
+ORD00463,3,Bluetooth Earbuds,Electronics,1,1599,950
+ORD00464,1,Men's Shirt,Clothing,2,713,350
+ORD00464,2,Sunglasses,Accessories,4,611,260
+ORD00465,1,Bedsheet,Home & Kitchen,2,1019,560
+ORD00465,2,Men's T-Shirt,Clothing,4,509,280
+ORD00465,3,Men's Jeans,Clothing,3,1019,570
+ORD00466,1,Men's Sneakers,Footwear,2,1299,780
+ORD00466,2,Smartphone,Electronics,3,14999,12500
+ORD00467,1,Sunglasses,Accessories,5,611,260
+ORD00467,2,Men's T-Shirt,Clothing,5,509,280
+ORD00468,1,Women's Kurti,Clothing,5,799,430
+ORD00469,1,Men's Watch,Accessories,4,1529,850
+ORD00469,2,Backpack,Accessories,4,917,480
+ORD00469,3,Men's Wallet,Accessories,2,305,120
+ORD00470,1,Backpack,Accessories,2,845,480
+ORD00471,1,Men's Wallet,Accessories,3,281,120
+ORD00472,1,Women's Sandals,Footwear,3,917,500
+ORD00473,1,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00473,2,Men's Wallet,Accessories,2,305,120
+ORD00474,1,Backpack,Accessories,4,845,480
+ORD00475,1,Women's Kurti,Clothing,4,751,430
+ORD00476,1,Women's Kurti,Clothing,1,799,430
+ORD00476,2,Women's Sandals,Footwear,3,899,500
+ORD00477,1,Bluetooth Earbuds,Electronics,3,1631,950
+ORD00478,1,Men's Watch,Accessories,1,1529,850
+ORD00478,2,Water Bottle,Home & Kitchen,3,407,180
+ORD00479,1,Men's Sneakers,Footwear,1,1325,780
+ORD00480,1,Men's Shirt,Clothing,1,699,350
+ORD00481,1,Men's Watch,Accessories,3,1499,850
+ORD00482,1,Men's Shirt,Clothing,1,713,350
+ORD00482,2,Power Bank,Electronics,5,1019,580
+ORD00482,3,Women's Sandals,Footwear,5,917,500
+ORD00483,1,Men's Shirt,Clothing,2,699,350
+ORD00483,2,Bluetooth Earbuds,Electronics,5,1599,950
+ORD00483,3,Men's Wallet,Accessories,4,299,120
+ORD00484,1,Men's Jeans,Clothing,2,999,570
+ORD00484,2,Men's Sneakers,Footwear,4,1299,780
+ORD00484,3,Men's Wallet,Accessories,4,299,120
+ORD00485,1,Women's Sandals,Footwear,1,917,500
+ORD00485,2,Backpack,Accessories,3,917,480
+ORD00485,3,Sunglasses,Accessories,3,611,260
+ORD00486,1,Water Bottle,Home & Kitchen,2,399,180
+ORD00487,1,Power Bank,Electronics,1,1019,580
+ORD00487,2,Bedsheet,Home & Kitchen,5,1019,560
+ORD00488,1,Sunglasses,Accessories,2,611,260
+ORD00489,1,Women's Sandals,Footwear,4,899,500
+ORD00490,1,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00490,2,Coffee Mug,Home & Kitchen,4,305,110
+ORD00491,1,Coffee Mug,Home & Kitchen,2,305,110
+ORD00492,1,Men's Shirt,Clothing,4,671,350
+ORD00492,2,Women's Kurti,Clothing,2,767,430
+ORD00492,3,Water Bottle,Home & Kitchen,4,383,180
+ORD00493,1,Men's T-Shirt,Clothing,5,509,280
+ORD00493,2,Bedsheet,Home & Kitchen,5,1019,560
+ORD00494,1,Coffee Mug,Home & Kitchen,4,305,110
+ORD00495,1,Women's Sandals,Footwear,4,917,500
+ORD00495,2,Men's T-Shirt,Clothing,5,509,280
+ORD00496,1,Power Bank,Electronics,3,959,580
+ORD00497,1,Water Bottle,Home & Kitchen,2,399,180
+ORD00498,1,Women's Kurti,Clothing,4,815,430
+ORD00499,1,Water Bottle,Home & Kitchen,4,383,180
+ORD00499,2,Men's Wallet,Accessories,4,287,120
+ORD00500,1,Sunglasses,Accessories,5,575,260
+ORD00501,1,Men's Shirt,Clothing,4,699,350
+ORD00502,1,Men's Jeans,Clothing,5,999,570
+ORD00502,2,Sunglasses,Accessories,5,599,260
+ORD00502,3,Women's Kurti,Clothing,1,799,430
+ORD00503,1,Men's Watch,Accessories,5,1499,850
+ORD00504,1,Bluetooth Earbuds,Electronics,3,1631,950
+ORD00504,2,Men's Shirt,Clothing,3,713,350
+ORD00504,3,Sunglasses,Accessories,2,611,260
+ORD00505,1,Sunglasses,Accessories,1,611,260
+ORD00505,2,Bedsheet,Home & Kitchen,2,1019,560
+ORD00506,1,Coffee Mug,Home & Kitchen,3,305,110
+ORD00507,1,Power Bank,Electronics,3,1019,580
+ORD00507,2,Bedsheet,Home & Kitchen,2,1019,560
+ORD00507,3,Sunglasses,Accessories,3,611,260
+ORD00508,1,Men's Watch,Accessories,1,1409,850
+ORD00508,2,Men's Shirt,Clothing,2,657,350
+ORD00509,1,Sunglasses,Accessories,3,611,260
+ORD00509,2,Smartphone,Electronics,4,15299,12500
+ORD00509,3,Men's T-Shirt,Clothing,2,509,280
+ORD00510,1,Bedsheet,Home & Kitchen,1,1019,560
+ORD00511,1,Men's Jeans,Clothing,3,1019,570
+ORD00512,1,Men's Watch,Accessories,4,1499,850
+ORD00512,2,Sunglasses,Accessories,2,599,260
+ORD00512,3,Power Bank,Electronics,5,999,580
+ORD00513,1,Women's Kurti,Clothing,1,751,430
+ORD00513,2,Power Bank,Electronics,5,939,580
+ORD00513,3,Bedsheet,Home & Kitchen,4,939,560
+ORD00514,1,Men's Watch,Accessories,4,1499,850
+ORD00515,1,Women's Kurti,Clothing,3,815,430
+ORD00516,1,Men's Sneakers,Footwear,3,1325,780
+ORD00516,2,Men's Shirt,Clothing,4,713,350
+ORD00516,3,Women's Sandals,Footwear,1,917,500
+ORD00517,1,Backpack,Accessories,5,899,480
+ORD00518,1,Bluetooth Earbuds,Electronics,4,1503,950
+ORD00518,2,Men's T-Shirt,Clothing,1,469,280
+ORD00518,3,Water Bottle,Home & Kitchen,4,375,180
+ORD00519,1,Women's Kurti,Clothing,4,815,430
+ORD00520,1,Coffee Mug,Home & Kitchen,2,281,110
+ORD00521,1,Water Bottle,Home & Kitchen,1,399,180
+ORD00521,2,Men's Wallet,Accessories,5,299,120
+ORD00522,1,Coffee Mug,Home & Kitchen,1,287,110
+ORD00523,1,Men's Jeans,Clothing,1,999,570
+ORD00524,1,Men's Sneakers,Footwear,4,1325,780
+ORD00524,2,Sunglasses,Accessories,3,611,260
+ORD00524,3,Power Bank,Electronics,2,1019,580
+ORD00525,1,Men's Sneakers,Footwear,4,1325,780
+ORD00525,2,Bluetooth Earbuds,Electronics,3,1631,950
+ORD00525,3,Women's Kurti,Clothing,4,815,430
+ORD00526,1,Smartphone,Electronics,4,14999,12500
+ORD00527,1,Coffee Mug,Home & Kitchen,2,305,110
+ORD00528,1,Bluetooth Earbuds,Electronics,1,1599,950
+ORD00529,1,Bedsheet,Home & Kitchen,3,1019,560
+ORD00529,2,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00530,1,Power Bank,Electronics,3,1019,580
+ORD00531,1,Smartphone,Electronics,1,15299,12500
+ORD00532,1,Bedsheet,Home & Kitchen,1,1019,560
+ORD00533,1,Power Bank,Electronics,1,999,580
+ORD00534,1,Men's T-Shirt,Clothing,1,509,280
+ORD00535,1,Men's Jeans,Clothing,3,1019,570
+ORD00536,1,Men's Watch,Accessories,4,1529,850
+ORD00536,2,Water Bottle,Home & Kitchen,5,407,180
+ORD00537,1,Sunglasses,Accessories,4,611,260
+ORD00537,2,Men's Shirt,Clothing,2,713,350
+ORD00538,1,Sunglasses,Accessories,4,611,260
+ORD00538,2,Men's Sneakers,Footwear,4,1325,780
+ORD00539,1,Men's T-Shirt,Clothing,5,479,280
+ORD00539,2,Women's Sandals,Footwear,4,863,500
+ORD00540,1,Smartphone,Electronics,5,14999,12500
+ORD00540,2,Coffee Mug,Home & Kitchen,3,299,110
+ORD00541,1,Bedsheet,Home & Kitchen,4,1019,560
+ORD00542,1,Men's Sneakers,Footwear,1,1325,780
+ORD00543,1,Power Bank,Electronics,2,999,580
+ORD00544,1,Backpack,Accessories,1,899,480
+ORD00544,2,Men's Shirt,Clothing,3,699,350
+ORD00545,1,Water Bottle,Home & Kitchen,3,383,180
+ORD00545,2,Power Bank,Electronics,5,959,580
+ORD00546,1,Women's Kurti,Clothing,1,815,430
+ORD00547,1,Coffee Mug,Home & Kitchen,3,299,110
+ORD00547,2,Smartphone,Electronics,4,14999,12500
+ORD00548,1,Water Bottle,Home & Kitchen,1,399,180
+ORD00548,2,Men's T-Shirt,Clothing,2,499,280
+ORD00549,1,Power Bank,Electronics,1,939,580
+ORD00549,2,Men's Sneakers,Footwear,4,1221,780
+ORD00550,1,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00551,1,Men's Jeans,Clothing,3,999,570
+ORD00552,1,Men's Watch,Accessories,5,1529,850
+ORD00553,1,Bluetooth Earbuds,Electronics,5,1599,950
+ORD00554,1,Men's Jeans,Clothing,1,959,570
+ORD00555,1,Coffee Mug,Home & Kitchen,3,299,110
+ORD00555,2,Sunglasses,Accessories,1,599,260
+ORD00556,1,Men's T-Shirt,Clothing,1,509,280
+ORD00556,2,Bluetooth Earbuds,Electronics,1,1631,950
+ORD00556,3,Men's Wallet,Accessories,5,305,120
+ORD00557,1,Men's Shirt,Clothing,1,713,350
+ORD00558,1,Water Bottle,Home & Kitchen,2,407,180
+ORD00559,1,Bedsheet,Home & Kitchen,1,1019,560
+ORD00559,2,Women's Sandals,Footwear,5,917,500
+ORD00560,1,Bluetooth Earbuds,Electronics,3,1503,950
+ORD00560,2,Sunglasses,Accessories,5,563,260
+ORD00561,1,Bedsheet,Home & Kitchen,1,999,560
+ORD00562,1,Men's Sneakers,Footwear,1,1325,780
+ORD00563,1,Bluetooth Earbuds,Electronics,1,1599,950
+ORD00564,1,Men's Watch,Accessories,2,1529,850
+ORD00565,1,Women's Kurti,Clothing,1,799,430
+ORD00565,2,Men's Watch,Accessories,5,1499,850
+ORD00566,1,Men's Jeans,Clothing,1,999,570
+ORD00567,1,Water Bottle,Home & Kitchen,5,407,180
+ORD00568,1,Women's Kurti,Clothing,1,815,430
+ORD00569,1,Coffee Mug,Home & Kitchen,5,305,110
+ORD00570,1,Men's Sneakers,Footwear,3,1299,780
+ORD00571,1,Men's Shirt,Clothing,4,713,350
+ORD00572,1,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00572,2,Men's Jeans,Clothing,4,999,570
+ORD00573,1,Men's Watch,Accessories,5,1499,850
+ORD00573,2,Sunglasses,Accessories,3,599,260
+ORD00573,3,Smartphone,Electronics,2,14999,12500
+ORD00574,1,Women's Sandals,Footwear,1,917,500
+ORD00575,1,Men's Sneakers,Footwear,1,1247,780
+ORD00575,2,Coffee Mug,Home & Kitchen,2,287,110
+ORD00576,1,Power Bank,Electronics,3,1019,580
+ORD00577,1,Sunglasses,Accessories,5,563,260
+ORD00578,1,Coffee Mug,Home & Kitchen,1,305,110
+ORD00578,2,Men's Shirt,Clothing,2,713,350
+ORD00579,1,Coffee Mug,Home & Kitchen,4,299,110
+ORD00579,2,Men's Watch,Accessories,1,1499,850
+ORD00580,1,Men's Sneakers,Footwear,3,1325,780
+ORD00581,1,Sunglasses,Accessories,4,611,260
+ORD00582,1,Men's T-Shirt,Clothing,5,509,280
+ORD00583,1,Women's Sandals,Footwear,3,845,500
+ORD00584,1,Men's Wallet,Accessories,2,305,120
+ORD00584,2,Men's Watch,Accessories,1,1529,850
+ORD00584,3,Men's Sneakers,Footwear,5,1325,780
+ORD00585,1,Women's Kurti,Clothing,5,799,430
+ORD00585,2,Backpack,Accessories,3,899,480
+ORD00586,1,Coffee Mug,Home & Kitchen,1,299,110
+ORD00587,1,Women's Kurti,Clothing,4,767,430
+ORD00588,1,Men's Shirt,Clothing,4,713,350
+ORD00589,1,Smartphone,Electronics,3,15299,12500
+ORD00589,2,Men's Watch,Accessories,5,1529,850
+ORD00590,1,Women's Sandals,Footwear,3,845,500
+ORD00590,2,Men's Sneakers,Footwear,4,1221,780
+ORD00591,1,Backpack,Accessories,3,917,480
+ORD00591,2,Men's Watch,Accessories,2,1529,850
+ORD00592,1,Smartphone,Electronics,4,14999,12500
+ORD00593,1,Women's Sandals,Footwear,2,863,500
+ORD00594,1,Women's Sandals,Footwear,3,899,500
+ORD00595,1,Water Bottle,Home & Kitchen,4,383,180
+ORD00595,2,Men's Wallet,Accessories,3,287,120
+ORD00596,1,Power Bank,Electronics,1,959,580
+ORD00597,1,Men's Watch,Accessories,1,1529,850
+ORD00598,1,Men's T-Shirt,Clothing,1,509,280
+ORD00599,1,Men's T-Shirt,Clothing,4,479,280
+ORD00600,1,Power Bank,Electronics,4,1019,580
+ORD00600,2,Men's T-Shirt,Clothing,1,509,280
+ORD00600,3,Bedsheet,Home & Kitchen,1,1019,560
+ORD00601,1,Bedsheet,Home & Kitchen,1,939,560
+ORD00602,1,Men's Watch,Accessories,3,1409,850
+ORD00603,1,Power Bank,Electronics,1,1019,580
+ORD00603,2,Men's Shirt,Clothing,4,713,350
+ORD00604,1,Power Bank,Electronics,3,1019,580
+ORD00604,2,Backpack,Accessories,3,917,480
+ORD00604,3,Men's Wallet,Accessories,3,305,120
+ORD00605,1,Coffee Mug,Home & Kitchen,5,299,110
+ORD00605,2,Men's Wallet,Accessories,2,299,120
+ORD00606,1,Water Bottle,Home & Kitchen,5,375,180
+ORD00607,1,Bluetooth Earbuds,Electronics,2,1503,950
+ORD00608,1,Sunglasses,Accessories,5,599,260
+ORD00609,1,Men's Jeans,Clothing,3,999,570
+ORD00610,1,Men's Wallet,Accessories,3,281,120
+ORD00611,1,Men's T-Shirt,Clothing,4,499,280
+ORD00612,1,Men's Watch,Accessories,5,1409,850
+ORD00612,2,Power Bank,Electronics,4,939,580
+ORD00613,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00613,2,Backpack,Accessories,3,917,480
+ORD00613,3,Men's Shirt,Clothing,5,713,350
+ORD00614,1,Men's Shirt,Clothing,3,699,350
+ORD00615,1,Power Bank,Electronics,3,999,580
+ORD00615,2,Sunglasses,Accessories,5,599,260
+ORD00615,3,Men's Shirt,Clothing,3,699,350
+ORD00616,1,Water Bottle,Home & Kitchen,5,407,180
+ORD00617,1,Men's T-Shirt,Clothing,3,509,280
+ORD00618,1,Sunglasses,Accessories,3,563,260
+ORD00618,2,Women's Kurti,Clothing,5,751,430
+ORD00619,1,Backpack,Accessories,3,863,480
+ORD00619,2,Bedsheet,Home & Kitchen,2,959,560
+ORD00620,1,Bedsheet,Home & Kitchen,5,999,560
+ORD00621,1,Men's Sneakers,Footwear,3,1221,780
+ORD00621,2,Sunglasses,Accessories,2,563,260
+ORD00621,3,Backpack,Accessories,2,845,480
+ORD00622,1,Men's Watch,Accessories,4,1499,850
+ORD00622,2,Men's Wallet,Accessories,4,299,120
+ORD00622,3,Sunglasses,Accessories,3,599,260
+ORD00623,1,Smartphone,Electronics,3,15299,12500
+ORD00623,2,Men's Sneakers,Footwear,3,1325,780
+ORD00623,3,Bedsheet,Home & Kitchen,5,1019,560
+ORD00624,1,Women's Kurti,Clothing,2,751,430
+ORD00625,1,Men's Jeans,Clothing,5,1019,570
+ORD00626,1,Men's Shirt,Clothing,1,657,350
+ORD00627,1,Bluetooth Earbuds,Electronics,5,1599,950
+ORD00627,2,Men's Wallet,Accessories,5,299,120
+ORD00628,1,Men's Sneakers,Footwear,5,1299,780
+ORD00628,2,Women's Sandals,Footwear,1,899,500
+ORD00629,1,Men's T-Shirt,Clothing,3,509,280
+ORD00630,1,Bedsheet,Home & Kitchen,2,959,560
+ORD00631,1,Men's T-Shirt,Clothing,3,509,280
+ORD00632,1,Backpack,Accessories,1,863,480
+ORD00633,1,Women's Sandals,Footwear,4,917,500
+ORD00634,1,Sunglasses,Accessories,2,599,260
+ORD00634,2,Smartphone,Electronics,2,14999,12500
+ORD00634,3,Bedsheet,Home & Kitchen,1,999,560
+ORD00635,1,Women's Kurti,Clothing,3,767,430
+ORD00635,2,Men's Sneakers,Footwear,1,1247,780
+ORD00636,1,Water Bottle,Home & Kitchen,5,399,180
+ORD00636,2,Women's Kurti,Clothing,4,799,430
+ORD00637,1,Smartphone,Electronics,3,15299,12500
+ORD00637,2,Men's Watch,Accessories,2,1529,850
+ORD00637,3,Backpack,Accessories,1,917,480
+ORD00638,1,Men's Watch,Accessories,2,1529,850
+ORD00638,2,Backpack,Accessories,4,917,480
+ORD00639,1,Men's T-Shirt,Clothing,4,509,280
+ORD00640,1,Women's Kurti,Clothing,3,799,430
+ORD00641,1,Backpack,Accessories,5,917,480
+ORD00641,2,Men's Sneakers,Footwear,1,1325,780
+ORD00641,3,Women's Kurti,Clothing,3,815,430
+ORD00642,1,Women's Kurti,Clothing,5,767,430
+ORD00642,2,Men's T-Shirt,Clothing,5,479,280
+ORD00643,1,Women's Kurti,Clothing,2,751,430
+ORD00644,1,Bedsheet,Home & Kitchen,2,1019,560
+ORD00645,1,Men's Sneakers,Footwear,2,1299,780
+ORD00645,2,Power Bank,Electronics,5,999,580
+ORD00646,1,Men's Sneakers,Footwear,1,1325,780
+ORD00646,2,Backpack,Accessories,4,917,480
+ORD00646,3,Bedsheet,Home & Kitchen,1,1019,560
+ORD00647,1,Men's Jeans,Clothing,4,999,570
+ORD00648,1,Women's Sandals,Footwear,4,863,500
+ORD00648,2,Sunglasses,Accessories,1,575,260
+ORD00649,1,Women's Kurti,Clothing,3,815,430
+ORD00649,2,Smartphone,Electronics,2,15299,12500
+ORD00650,1,Men's Wallet,Accessories,4,305,120
+ORD00651,1,Backpack,Accessories,4,899,480
+ORD00651,2,Men's T-Shirt,Clothing,2,499,280
+ORD00651,3,Sunglasses,Accessories,2,599,260
+ORD00652,1,Water Bottle,Home & Kitchen,4,399,180
+ORD00652,2,Bluetooth Earbuds,Electronics,5,1599,950
+ORD00653,1,Power Bank,Electronics,5,939,580
+ORD00653,2,Bedsheet,Home & Kitchen,5,939,560
+ORD00653,3,Women's Sandals,Footwear,3,845,500
+ORD00654,1,Water Bottle,Home & Kitchen,3,399,180
+ORD00654,2,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00655,1,Women's Kurti,Clothing,1,767,430
+ORD00655,2,Sunglasses,Accessories,4,575,260
+ORD00656,1,Sunglasses,Accessories,1,575,260
+ORD00656,2,Bedsheet,Home & Kitchen,4,959,560
+ORD00657,1,Men's Watch,Accessories,3,1409,850
+ORD00657,2,Power Bank,Electronics,1,939,580
+ORD00657,3,Coffee Mug,Home & Kitchen,1,281,110
+ORD00658,1,Power Bank,Electronics,2,1019,580
+ORD00659,1,Water Bottle,Home & Kitchen,4,407,180
+ORD00659,2,Women's Kurti,Clothing,3,815,430
+ORD00660,1,Women's Sandals,Footwear,2,845,500
+ORD00661,1,Coffee Mug,Home & Kitchen,2,305,110
+ORD00662,1,Men's Shirt,Clothing,2,713,350
+ORD00663,1,Women's Sandals,Footwear,2,845,500
+ORD00663,2,Women's Kurti,Clothing,4,751,430
+ORD00663,3,Men's Watch,Accessories,4,1409,850
+ORD00664,1,Smartphone,Electronics,2,14099,12500
+ORD00664,2,Men's Watch,Accessories,3,1409,850
+ORD00665,1,Power Bank,Electronics,4,1019,580
+ORD00665,2,Men's Shirt,Clothing,1,713,350
+ORD00666,1,Women's Kurti,Clothing,2,767,430
+ORD00667,1,Coffee Mug,Home & Kitchen,4,287,110
+ORD00667,2,Men's Shirt,Clothing,4,671,350
+ORD00668,1,Water Bottle,Home & Kitchen,1,407,180
+ORD00669,1,Men's Watch,Accessories,3,1409,850
+ORD00669,2,Smartphone,Electronics,1,14099,12500
+ORD00670,1,Men's Sneakers,Footwear,3,1325,780
+ORD00671,1,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00672,1,Coffee Mug,Home & Kitchen,1,287,110
+ORD00672,2,Sunglasses,Accessories,5,575,260
+ORD00673,1,Men's Wallet,Accessories,5,299,120
+ORD00674,1,Smartphone,Electronics,4,15299,12500
+ORD00674,2,Water Bottle,Home & Kitchen,3,407,180
+ORD00675,1,Backpack,Accessories,4,899,480
+ORD00676,1,Smartphone,Electronics,5,15299,12500
+ORD00677,1,Sunglasses,Accessories,4,599,260
+ORD00678,1,Men's Shirt,Clothing,3,699,350
+ORD00679,1,Men's Sneakers,Footwear,4,1325,780
+ORD00679,2,Men's Wallet,Accessories,5,305,120
+ORD00680,1,Men's T-Shirt,Clothing,3,469,280
+ORD00680,2,Bedsheet,Home & Kitchen,2,939,560
+ORD00681,1,Men's Sneakers,Footwear,3,1325,780
+ORD00682,1,Water Bottle,Home & Kitchen,2,407,180
+ORD00683,1,Smartphone,Electronics,1,15299,12500
+ORD00684,1,Men's T-Shirt,Clothing,3,469,280
+ORD00685,1,Women's Kurti,Clothing,5,751,430
+ORD00686,1,Men's Jeans,Clothing,4,999,570
+ORD00687,1,Coffee Mug,Home & Kitchen,3,299,110
+ORD00687,2,Men's Jeans,Clothing,5,999,570
+ORD00687,3,Men's Shirt,Clothing,4,699,350
+ORD00688,1,Water Bottle,Home & Kitchen,4,407,180
+ORD00688,2,Men's Jeans,Clothing,3,1019,570
+ORD00688,3,Men's T-Shirt,Clothing,5,509,280
+ORD00689,1,Bedsheet,Home & Kitchen,2,999,560
+ORD00690,1,Men's Wallet,Accessories,3,281,120
+ORD00690,2,Water Bottle,Home & Kitchen,1,375,180
+ORD00691,1,Smartphone,Electronics,4,14999,12500
+ORD00691,2,Coffee Mug,Home & Kitchen,4,299,110
+ORD00692,1,Men's Wallet,Accessories,4,305,120
+ORD00692,2,Men's Jeans,Clothing,5,1019,570
+ORD00693,1,Backpack,Accessories,4,899,480
+ORD00694,1,Water Bottle,Home & Kitchen,3,383,180
+ORD00694,2,Bluetooth Earbuds,Electronics,1,1535,950
+ORD00695,1,Backpack,Accessories,2,863,480
+ORD00696,1,Women's Sandals,Footwear,3,899,500
+ORD00696,2,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00697,1,Coffee Mug,Home & Kitchen,1,299,110
+ORD00698,1,Men's Shirt,Clothing,1,699,350
+ORD00698,2,Smartphone,Electronics,5,14999,12500
+ORD00699,1,Backpack,Accessories,4,899,480
+ORD00700,1,Women's Sandals,Footwear,2,917,500
+ORD00701,1,Women's Sandals,Footwear,1,899,500
+ORD00702,1,Men's Jeans,Clothing,5,1019,570
+ORD00702,2,Smartphone,Electronics,2,15299,12500
+ORD00703,1,Men's Sneakers,Footwear,4,1247,780
+ORD00703,2,Men's Wallet,Accessories,5,287,120
+ORD00703,3,Men's Shirt,Clothing,4,671,350
+ORD00704,1,Bedsheet,Home & Kitchen,1,999,560
+ORD00705,1,Women's Sandals,Footwear,3,899,500
+ORD00706,1,Men's Shirt,Clothing,4,713,350
+ORD00706,2,Men's Sneakers,Footwear,1,1325,780
+ORD00706,3,Women's Sandals,Footwear,1,917,500
+ORD00707,1,Backpack,Accessories,1,917,480
+ORD00707,2,Bedsheet,Home & Kitchen,3,1019,560
+ORD00707,3,Men's Jeans,Clothing,1,1019,570
+ORD00708,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00708,2,Men's Jeans,Clothing,4,1019,570
+ORD00709,1,Bedsheet,Home & Kitchen,2,999,560
+ORD00709,2,Women's Kurti,Clothing,2,799,430
+ORD00710,1,Bedsheet,Home & Kitchen,3,999,560
+ORD00711,1,Water Bottle,Home & Kitchen,1,399,180
+ORD00711,2,Men's Shirt,Clothing,2,699,350
+ORD00712,1,Power Bank,Electronics,2,1019,580
+ORD00713,1,Bedsheet,Home & Kitchen,5,939,560
+ORD00714,1,Men's Shirt,Clothing,4,699,350
+ORD00714,2,Men's Jeans,Clothing,1,999,570
+ORD00715,1,Men's Sneakers,Footwear,5,1299,780
+ORD00716,1,Sunglasses,Accessories,2,611,260
+ORD00717,1,Men's Sneakers,Footwear,5,1299,780
+ORD00717,2,Men's Shirt,Clothing,1,699,350
+ORD00717,3,Power Bank,Electronics,3,999,580
+ORD00718,1,Bedsheet,Home & Kitchen,3,939,560
+ORD00719,1,Bluetooth Earbuds,Electronics,5,1503,950
+ORD00720,1,Women's Kurti,Clothing,1,799,430
+ORD00720,2,Backpack,Accessories,1,899,480
+ORD00721,1,Women's Sandals,Footwear,5,845,500
+ORD00721,2,Men's T-Shirt,Clothing,3,469,280
+ORD00722,1,Backpack,Accessories,2,917,480
+ORD00722,2,Men's Watch,Accessories,2,1529,850
+ORD00722,3,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00723,1,Bedsheet,Home & Kitchen,3,939,560
+ORD00723,2,Men's Jeans,Clothing,4,939,570
+ORD00723,3,Bluetooth Earbuds,Electronics,5,1503,950
+ORD00724,1,Women's Sandals,Footwear,5,917,500
+ORD00724,2,Men's Shirt,Clothing,4,713,350
+ORD00724,3,Men's Wallet,Accessories,4,305,120
+ORD00725,1,Men's Jeans,Clothing,4,999,570
+ORD00726,1,Coffee Mug,Home & Kitchen,4,281,110
+ORD00726,2,Water Bottle,Home & Kitchen,2,375,180
+ORD00727,1,Men's Shirt,Clothing,3,699,350
+ORD00727,2,Men's Jeans,Clothing,4,999,570
+ORD00727,3,Men's T-Shirt,Clothing,3,499,280
+ORD00728,1,Women's Sandals,Footwear,2,899,500
+ORD00729,1,Backpack,Accessories,5,917,480
+ORD00730,1,Men's Shirt,Clothing,4,699,350
+ORD00731,1,Men's Wallet,Accessories,1,281,120
+ORD00731,2,Smartphone,Electronics,2,14099,12500
+ORD00732,1,Women's Sandals,Footwear,5,899,500
+ORD00732,2,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00733,1,Men's Sneakers,Footwear,2,1299,780
+ORD00734,1,Power Bank,Electronics,3,939,580
+ORD00735,1,Smartphone,Electronics,4,15299,12500
+ORD00735,2,Coffee Mug,Home & Kitchen,3,305,110
+ORD00736,1,Women's Sandals,Footwear,2,917,500
+ORD00736,2,Water Bottle,Home & Kitchen,3,407,180
+ORD00737,1,Coffee Mug,Home & Kitchen,2,287,110
+ORD00737,2,Backpack,Accessories,3,863,480
+ORD00738,1,Men's Watch,Accessories,3,1499,850
+ORD00738,2,Backpack,Accessories,5,899,480
+ORD00739,1,Men's Wallet,Accessories,1,299,120
+ORD00740,1,Backpack,Accessories,1,917,480
+ORD00741,1,Women's Sandals,Footwear,4,845,500
+ORD00741,2,Men's T-Shirt,Clothing,1,469,280
+ORD00742,1,Men's T-Shirt,Clothing,1,499,280
+ORD00743,1,Bedsheet,Home & Kitchen,2,999,560
+ORD00744,1,Men's Watch,Accessories,4,1499,850
+ORD00745,1,Men's Shirt,Clothing,4,671,350
+ORD00746,1,Sunglasses,Accessories,5,611,260
+ORD00746,2,Men's Sneakers,Footwear,2,1325,780
+ORD00747,1,Bedsheet,Home & Kitchen,2,1019,560
+ORD00747,2,Men's T-Shirt,Clothing,3,509,280
+ORD00748,1,Power Bank,Electronics,2,959,580
+ORD00749,1,Backpack,Accessories,2,845,480
+ORD00750,1,Coffee Mug,Home & Kitchen,4,287,110
+ORD00750,2,Bluetooth Earbuds,Electronics,4,1535,950
+ORD00751,1,Coffee Mug,Home & Kitchen,5,299,110
+ORD00752,1,Men's Shirt,Clothing,5,713,350
+ORD00753,1,Coffee Mug,Home & Kitchen,5,305,110
+ORD00753,2,Backpack,Accessories,5,917,480
+ORD00754,1,Coffee Mug,Home & Kitchen,4,305,110
+ORD00755,1,Smartphone,Electronics,5,15299,12500
+ORD00756,1,Women's Kurti,Clothing,3,751,430
+ORD00756,2,Bluetooth Earbuds,Electronics,3,1503,950
+ORD00756,3,Bedsheet,Home & Kitchen,4,939,560
+ORD00757,1,Men's Watch,Accessories,2,1499,850
+ORD00758,1,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00759,1,Men's Jeans,Clothing,2,939,570
+ORD00760,1,Women's Kurti,Clothing,4,815,430
+ORD00760,2,Sunglasses,Accessories,4,611,260
+ORD00761,1,Power Bank,Electronics,5,999,580
+ORD00762,1,Smartphone,Electronics,4,14099,12500
+ORD00763,1,Water Bottle,Home & Kitchen,4,399,180
+ORD00763,2,Men's Watch,Accessories,4,1499,850
+ORD00764,1,Men's Watch,Accessories,3,1409,850
+ORD00765,1,Water Bottle,Home & Kitchen,2,407,180
+ORD00766,1,Women's Sandals,Footwear,2,845,500
+ORD00767,1,Water Bottle,Home & Kitchen,4,399,180
+ORD00768,1,Bedsheet,Home & Kitchen,3,999,560
+ORD00768,2,Coffee Mug,Home & Kitchen,5,299,110
+ORD00769,1,Water Bottle,Home & Kitchen,3,407,180
+ORD00769,2,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00770,1,Men's T-Shirt,Clothing,5,469,280
+ORD00770,2,Smartphone,Electronics,3,14099,12500
+ORD00771,1,Coffee Mug,Home & Kitchen,3,281,110
+ORD00771,2,Women's Kurti,Clothing,5,751,430
+ORD00771,3,Men's Shirt,Clothing,5,657,350
+ORD00772,1,Bedsheet,Home & Kitchen,2,939,560
+ORD00773,1,Water Bottle,Home & Kitchen,2,407,180
+ORD00773,2,Men's Jeans,Clothing,3,1019,570
+ORD00773,3,Coffee Mug,Home & Kitchen,5,305,110
+ORD00774,1,Women's Kurti,Clothing,1,815,430
+ORD00775,1,Women's Kurti,Clothing,3,751,430
+ORD00776,1,Men's Watch,Accessories,4,1499,850
+ORD00776,2,Smartphone,Electronics,1,14999,12500
+ORD00777,1,Men's Jeans,Clothing,2,1019,570
+ORD00778,1,Bluetooth Earbuds,Electronics,1,1535,950
+ORD00779,1,Men's Sneakers,Footwear,3,1325,780
+ORD00779,2,Smartphone,Electronics,4,15299,12500
+ORD00780,1,Water Bottle,Home & Kitchen,4,375,180
+ORD00781,1,Sunglasses,Accessories,4,599,260
+ORD00782,1,Men's T-Shirt,Clothing,1,499,280
+ORD00783,1,Sunglasses,Accessories,5,575,260
+ORD00783,2,Bedsheet,Home & Kitchen,3,959,560
+ORD00783,3,Men's Shirt,Clothing,1,671,350
+ORD00784,1,Men's T-Shirt,Clothing,5,509,280
+ORD00784,2,Backpack,Accessories,1,917,480
+ORD00784,3,Power Bank,Electronics,1,1019,580
+ORD00785,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00785,2,Women's Sandals,Footwear,4,917,500
+ORD00786,1,Water Bottle,Home & Kitchen,3,399,180
+ORD00787,1,Men's T-Shirt,Clothing,2,469,280
+ORD00787,2,Men's Watch,Accessories,4,1409,850
+ORD00788,1,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00789,1,Water Bottle,Home & Kitchen,4,399,180
+ORD00789,2,Bedsheet,Home & Kitchen,3,999,560
+ORD00790,1,Men's Jeans,Clothing,4,999,570
+ORD00791,1,Men's Wallet,Accessories,3,305,120
+ORD00792,1,Men's Wallet,Accessories,4,299,120
+ORD00793,1,Bedsheet,Home & Kitchen,3,959,560
+ORD00794,1,Men's Shirt,Clothing,5,713,350
+ORD00795,1,Water Bottle,Home & Kitchen,4,407,180
+ORD00796,1,Backpack,Accessories,4,917,480
+ORD00796,2,Women's Kurti,Clothing,1,815,430
+ORD00797,1,Smartphone,Electronics,2,15299,12500
+ORD00798,1,Backpack,Accessories,3,845,480
+ORD00798,2,Power Bank,Electronics,2,939,580
+ORD00799,1,Men's Wallet,Accessories,1,299,120
+ORD00799,2,Women's Sandals,Footwear,3,899,500
+ORD00799,3,Bedsheet,Home & Kitchen,2,999,560
+ORD00800,1,Men's Jeans,Clothing,4,939,570
+ORD00801,1,Men's T-Shirt,Clothing,2,499,280
+ORD00801,2,Men's Sneakers,Footwear,2,1299,780
+ORD00801,3,Bedsheet,Home & Kitchen,4,999,560
+ORD00802,1,Sunglasses,Accessories,2,611,260
+ORD00803,1,Women's Kurti,Clothing,2,815,430
+ORD00804,1,Men's Shirt,Clothing,4,671,350
+ORD00804,2,Smartphone,Electronics,3,14399,12500
+ORD00805,1,Men's Sneakers,Footwear,2,1221,780
+ORD00806,1,Men's Jeans,Clothing,5,1019,570
+ORD00807,1,Bedsheet,Home & Kitchen,2,1019,560
+ORD00807,2,Men's Wallet,Accessories,3,305,120
+ORD00807,3,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00808,1,Sunglasses,Accessories,2,575,260
+ORD00808,2,Coffee Mug,Home & Kitchen,3,287,110
+ORD00809,1,Men's Sneakers,Footwear,5,1325,780
+ORD00809,2,Men's T-Shirt,Clothing,4,509,280
+ORD00810,1,Women's Kurti,Clothing,5,799,430
+ORD00811,1,Men's Jeans,Clothing,5,1019,570
+ORD00811,2,Women's Sandals,Footwear,5,917,500
+ORD00812,1,Men's T-Shirt,Clothing,4,479,280
+ORD00813,1,Women's Sandals,Footwear,2,899,500
+ORD00813,2,Backpack,Accessories,4,899,480
+ORD00814,1,Water Bottle,Home & Kitchen,2,399,180
+ORD00814,2,Backpack,Accessories,5,899,480
+ORD00814,3,Smartphone,Electronics,4,14999,12500
+ORD00815,1,Men's Sneakers,Footwear,5,1325,780
+ORD00815,2,Smartphone,Electronics,3,15299,12500
+ORD00816,1,Men's T-Shirt,Clothing,2,479,280
+ORD00817,1,Women's Kurti,Clothing,5,799,430
+ORD00818,1,Smartphone,Electronics,4,15299,12500
+ORD00819,1,Smartphone,Electronics,3,15299,12500
+ORD00820,1,Smartphone,Electronics,3,14099,12500
+ORD00821,1,Sunglasses,Accessories,1,575,260
+ORD00822,1,Sunglasses,Accessories,4,599,260
+ORD00823,1,Bedsheet,Home & Kitchen,4,1019,560
+ORD00824,1,Men's T-Shirt,Clothing,4,469,280
+ORD00824,2,Power Bank,Electronics,5,939,580
+ORD00825,1,Men's Sneakers,Footwear,5,1221,780
+ORD00825,2,Sunglasses,Accessories,3,563,260
+ORD00826,1,Men's Wallet,Accessories,1,305,120
+ORD00826,2,Water Bottle,Home & Kitchen,1,407,180
+ORD00827,1,Bedsheet,Home & Kitchen,4,1019,560
+ORD00828,1,Power Bank,Electronics,5,999,580
+ORD00829,1,Women's Kurti,Clothing,1,751,430
+ORD00830,1,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00831,1,Men's Wallet,Accessories,2,281,120
+ORD00831,2,Bluetooth Earbuds,Electronics,4,1503,950
+ORD00832,1,Men's Sneakers,Footwear,5,1325,780
+ORD00833,1,Bluetooth Earbuds,Electronics,5,1503,950
+ORD00833,2,Men's T-Shirt,Clothing,3,469,280
+ORD00833,3,Women's Kurti,Clothing,3,751,430
+ORD00834,1,Women's Sandals,Footwear,5,917,500
+ORD00834,2,Men's Wallet,Accessories,1,305,120
+ORD00835,1,Sunglasses,Accessories,1,611,260
+ORD00836,1,Power Bank,Electronics,3,939,580
+ORD00836,2,Coffee Mug,Home & Kitchen,4,281,110
+ORD00836,3,Bedsheet,Home & Kitchen,1,939,560
+ORD00837,1,Coffee Mug,Home & Kitchen,5,281,110
+ORD00838,1,Women's Kurti,Clothing,3,751,430
+ORD00839,1,Men's Jeans,Clothing,5,999,570
+ORD00840,1,Coffee Mug,Home & Kitchen,4,299,110
+ORD00841,1,Men's Sneakers,Footwear,5,1221,780
+ORD00841,2,Bedsheet,Home & Kitchen,2,939,560
+ORD00842,1,Men's Wallet,Accessories,3,287,120
+ORD00842,2,Men's Sneakers,Footwear,5,1247,780
+ORD00842,3,Men's Shirt,Clothing,2,671,350
+ORD00843,1,Backpack,Accessories,3,917,480
+ORD00843,2,Men's Watch,Accessories,2,1529,850
+ORD00844,1,Smartphone,Electronics,2,14999,12500
+ORD00844,2,Men's Shirt,Clothing,5,699,350
+ORD00844,3,Men's Watch,Accessories,5,1499,850
+ORD00845,1,Men's Sneakers,Footwear,1,1325,780
+ORD00846,1,Power Bank,Electronics,4,1019,580
+ORD00847,1,Men's Jeans,Clothing,2,999,570
+ORD00847,2,Bedsheet,Home & Kitchen,3,999,560
+ORD00848,1,Men's T-Shirt,Clothing,2,499,280
+ORD00849,1,Women's Kurti,Clothing,4,767,430
+ORD00850,1,Men's Watch,Accessories,4,1409,850
+ORD00850,2,Smartphone,Electronics,1,14099,12500
+ORD00851,1,Coffee Mug,Home & Kitchen,1,287,110
+ORD00852,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00853,1,Sunglasses,Accessories,1,611,260
+ORD00854,1,Men's Wallet,Accessories,5,281,120
+ORD00855,1,Men's Sneakers,Footwear,5,1325,780
+ORD00856,1,Men's T-Shirt,Clothing,3,469,280
+ORD00856,2,Men's Jeans,Clothing,1,939,570
+ORD00857,1,Men's T-Shirt,Clothing,4,479,280
+ORD00857,2,Water Bottle,Home & Kitchen,4,383,180
+ORD00857,3,Women's Sandals,Footwear,5,863,500
+ORD00858,1,Men's Wallet,Accessories,5,305,120
+ORD00859,1,Men's Wallet,Accessories,4,299,120
+ORD00860,1,Bedsheet,Home & Kitchen,3,999,560
+ORD00860,2,Men's Wallet,Accessories,2,299,120
+ORD00861,1,Power Bank,Electronics,2,959,580
+ORD00861,2,Men's Wallet,Accessories,1,287,120
+ORD00861,3,Women's Sandals,Footwear,5,863,500
+ORD00862,1,Men's Jeans,Clothing,1,999,570
+ORD00863,1,Sunglasses,Accessories,3,611,260
+ORD00864,1,Sunglasses,Accessories,2,611,260
+ORD00864,2,Men's Wallet,Accessories,1,305,120
+ORD00864,3,Men's Sneakers,Footwear,3,1325,780
+ORD00865,1,Bedsheet,Home & Kitchen,4,999,560
+ORD00866,1,Men's Sneakers,Footwear,4,1325,780
+ORD00866,2,Women's Kurti,Clothing,4,815,430
+ORD00867,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00867,2,Women's Sandals,Footwear,2,917,500
+ORD00867,3,Men's Shirt,Clothing,4,713,350
+ORD00868,1,Men's Sneakers,Footwear,4,1325,780
+ORD00869,1,Women's Sandals,Footwear,1,917,500
+ORD00869,2,Men's Sneakers,Footwear,2,1325,780
+ORD00870,1,Water Bottle,Home & Kitchen,5,399,180
+ORD00871,1,Women's Sandals,Footwear,1,899,500
+ORD00872,1,Men's Watch,Accessories,5,1439,850
+ORD00872,2,Men's Wallet,Accessories,3,287,120
+ORD00873,1,Men's Watch,Accessories,1,1499,850
+ORD00873,2,Coffee Mug,Home & Kitchen,3,299,110
+ORD00873,3,Bedsheet,Home & Kitchen,4,999,560
+ORD00874,1,Women's Kurti,Clothing,1,799,430
+ORD00874,2,Backpack,Accessories,4,899,480
+ORD00875,1,Bedsheet,Home & Kitchen,1,1019,560
+ORD00876,1,Smartphone,Electronics,2,14999,12500
+ORD00877,1,Women's Kurti,Clothing,5,815,430
+ORD00877,2,Smartphone,Electronics,5,15299,12500
+ORD00877,3,Water Bottle,Home & Kitchen,5,407,180
+ORD00878,1,Men's Jeans,Clothing,4,939,570
+ORD00879,1,Men's Sneakers,Footwear,3,1325,780
+ORD00879,2,Coffee Mug,Home & Kitchen,2,305,110
+ORD00880,1,Bluetooth Earbuds,Electronics,5,1631,950
+ORD00881,1,Men's Wallet,Accessories,1,299,120
+ORD00882,1,Men's Shirt,Clothing,3,657,350
+ORD00882,2,Men's Wallet,Accessories,3,281,120
+ORD00883,1,Women's Kurti,Clothing,3,799,430
+ORD00883,2,Bluetooth Earbuds,Electronics,2,1599,950
+ORD00884,1,Women's Kurti,Clothing,4,815,430
+ORD00885,1,Power Bank,Electronics,3,999,580
+ORD00886,1,Men's Sneakers,Footwear,5,1221,780
+ORD00886,2,Women's Sandals,Footwear,3,845,500
+ORD00886,3,Men's Wallet,Accessories,5,281,120
+ORD00887,1,Men's Sneakers,Footwear,1,1299,780
+ORD00888,1,Bluetooth Earbuds,Electronics,5,1503,950
+ORD00889,1,Water Bottle,Home & Kitchen,1,407,180
+ORD00890,1,Power Bank,Electronics,3,999,580
+ORD00891,1,Men's Shirt,Clothing,4,713,350
+ORD00892,1,Women's Kurti,Clothing,2,751,430
+ORD00893,1,Bedsheet,Home & Kitchen,4,1019,560
+ORD00893,2,Men's Shirt,Clothing,4,713,350
+ORD00893,3,Coffee Mug,Home & Kitchen,4,305,110
+ORD00894,1,Coffee Mug,Home & Kitchen,2,299,110
+ORD00895,1,Men's Sneakers,Footwear,2,1221,780
+ORD00895,2,Men's Shirt,Clothing,3,657,350
+ORD00895,3,Backpack,Accessories,5,845,480
+ORD00896,1,Backpack,Accessories,4,899,480
+ORD00897,1,Power Bank,Electronics,4,999,580
+ORD00897,2,Women's Kurti,Clothing,2,799,430
+ORD00898,1,Sunglasses,Accessories,4,611,260
+ORD00898,2,Backpack,Accessories,5,917,480
+ORD00898,3,Power Bank,Electronics,1,1019,580
+ORD00899,1,Sunglasses,Accessories,5,563,260
+ORD00899,2,Bedsheet,Home & Kitchen,2,939,560
+ORD00899,3,Women's Sandals,Footwear,3,845,500
+ORD00900,1,Men's Watch,Accessories,2,1529,850
+ORD00900,2,Women's Kurti,Clothing,5,815,430
+ORD00901,1,Bluetooth Earbuds,Electronics,5,1503,950
+ORD00901,2,Men's Watch,Accessories,1,1409,850
+ORD00902,1,Women's Sandals,Footwear,1,845,500
+ORD00902,2,Coffee Mug,Home & Kitchen,2,281,110
+ORD00903,1,Women's Kurti,Clothing,3,815,430
+ORD00904,1,Men's Shirt,Clothing,5,671,350
+ORD00905,1,Men's Shirt,Clothing,1,657,350
+ORD00905,2,Bedsheet,Home & Kitchen,4,939,560
+ORD00905,3,Men's Wallet,Accessories,2,281,120
+ORD00906,1,Water Bottle,Home & Kitchen,2,399,180
+ORD00907,1,Men's Sneakers,Footwear,3,1221,780
+ORD00908,1,Men's Sneakers,Footwear,3,1221,780
+ORD00909,1,Coffee Mug,Home & Kitchen,4,305,110
+ORD00910,1,Women's Sandals,Footwear,5,917,500
+ORD00910,2,Women's Kurti,Clothing,5,815,430
+ORD00910,3,Men's T-Shirt,Clothing,3,509,280
+ORD00911,1,Smartphone,Electronics,4,14999,12500
+ORD00911,2,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00912,1,Sunglasses,Accessories,3,611,260
+ORD00912,2,Water Bottle,Home & Kitchen,5,407,180
+ORD00912,3,Women's Kurti,Clothing,3,815,430
+ORD00913,1,Men's Jeans,Clothing,4,939,570
+ORD00914,1,Women's Kurti,Clothing,2,815,430
+ORD00915,1,Men's T-Shirt,Clothing,3,509,280
+ORD00915,2,Sunglasses,Accessories,4,611,260
+ORD00916,1,Men's Wallet,Accessories,3,305,120
+ORD00916,2,Smartphone,Electronics,3,15299,12500
+ORD00916,3,Backpack,Accessories,2,917,480
+ORD00917,1,Bedsheet,Home & Kitchen,1,959,560
+ORD00917,2,Women's Kurti,Clothing,2,767,430
+ORD00917,3,Bluetooth Earbuds,Electronics,2,1535,950
+ORD00918,1,Women's Kurti,Clothing,5,799,430
+ORD00919,1,Women's Kurti,Clothing,3,815,430
+ORD00919,2,Men's Watch,Accessories,2,1529,850
+ORD00919,3,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00920,1,Sunglasses,Accessories,4,599,260
+ORD00921,1,Sunglasses,Accessories,1,563,260
+ORD00921,2,Men's Jeans,Clothing,4,939,570
+ORD00922,1,Smartphone,Electronics,3,14099,12500
+ORD00922,2,Power Bank,Electronics,2,939,580
+ORD00923,1,Power Bank,Electronics,5,1019,580
+ORD00923,2,Women's Kurti,Clothing,3,815,430
+ORD00923,3,Bluetooth Earbuds,Electronics,4,1631,950
+ORD00924,1,Sunglasses,Accessories,5,599,260
+ORD00925,1,Bluetooth Earbuds,Electronics,4,1535,950
+ORD00925,2,Men's Sneakers,Footwear,4,1247,780
+ORD00926,1,Men's T-Shirt,Clothing,1,509,280
+ORD00926,2,Men's Watch,Accessories,5,1529,850
+ORD00927,1,Sunglasses,Accessories,2,599,260
+ORD00928,1,Water Bottle,Home & Kitchen,1,407,180
+ORD00928,2,Bedsheet,Home & Kitchen,2,1019,560
+ORD00929,1,Men's Wallet,Accessories,2,305,120
+ORD00930,1,Coffee Mug,Home & Kitchen,5,305,110
+ORD00930,2,Men's Jeans,Clothing,5,1019,570
+ORD00931,1,Men's Shirt,Clothing,3,699,350
+ORD00931,2,Backpack,Accessories,2,899,480
+ORD00932,1,Men's Watch,Accessories,1,1499,850
+ORD00932,2,Men's T-Shirt,Clothing,4,499,280
+ORD00933,1,Coffee Mug,Home & Kitchen,2,305,110
+ORD00934,1,Men's Sneakers,Footwear,2,1299,780
+ORD00935,1,Men's Watch,Accessories,5,1499,850
+ORD00936,1,Men's Watch,Accessories,3,1529,850
+ORD00937,1,Sunglasses,Accessories,2,563,260
+ORD00937,2,Men's Jeans,Clothing,1,939,570
+ORD00937,3,Men's Wallet,Accessories,5,281,120
+ORD00938,1,Power Bank,Electronics,5,939,580
+ORD00938,2,Women's Sandals,Footwear,3,845,500
+ORD00938,3,Coffee Mug,Home & Kitchen,1,281,110
+ORD00939,1,Bedsheet,Home & Kitchen,1,999,560
+ORD00940,1,Smartphone,Electronics,2,14099,12500
+ORD00940,2,Bedsheet,Home & Kitchen,3,939,560
+ORD00941,1,Water Bottle,Home & Kitchen,3,407,180
+ORD00941,2,Power Bank,Electronics,5,1019,580
+ORD00942,1,Women's Sandals,Footwear,3,899,500
+ORD00942,2,Smartphone,Electronics,4,14999,12500
+ORD00943,1,Men's T-Shirt,Clothing,5,479,280
+ORD00944,1,Men's Wallet,Accessories,3,281,120
+ORD00945,1,Men's Wallet,Accessories,2,305,120
+ORD00946,1,Men's Shirt,Clothing,4,713,350
+ORD00946,2,Men's Wallet,Accessories,5,305,120
+ORD00947,1,Bluetooth Earbuds,Electronics,2,1631,950
+ORD00948,1,Men's T-Shirt,Clothing,1,479,280
+ORD00948,2,Men's Watch,Accessories,5,1439,850
+ORD00949,1,Sunglasses,Accessories,3,599,260
+ORD00950,1,Water Bottle,Home & Kitchen,1,407,180
+ORD00951,1,Men's Sneakers,Footwear,1,1247,780
+ORD00951,2,Men's T-Shirt,Clothing,1,479,280
+ORD00952,1,Women's Sandals,Footwear,1,917,500
+ORD00953,1,Men's Watch,Accessories,1,1499,850
+ORD00954,1,Water Bottle,Home & Kitchen,4,383,180
+ORD00954,2,Men's Shirt,Clothing,4,671,350
+ORD00955,1,Women's Kurti,Clothing,2,799,430
+ORD00955,2,Men's Shirt,Clothing,4,699,350
+ORD00956,1,Power Bank,Electronics,2,939,580
+ORD00956,2,Men's T-Shirt,Clothing,1,469,280
+ORD00956,3,Men's Jeans,Clothing,4,939,570
+ORD00957,1,Bluetooth Earbuds,Electronics,3,1599,950
+ORD00958,1,Men's T-Shirt,Clothing,1,469,280
+ORD00959,1,Coffee Mug,Home & Kitchen,2,299,110
+ORD00960,1,Men's Shirt,Clothing,1,657,350
+ORD00960,2,Men's Jeans,Clothing,5,939,570
+ORD00961,1,Power Bank,Electronics,4,999,580
+ORD00962,1,Water Bottle,Home & Kitchen,1,407,180
+ORD00963,1,Bedsheet,Home & Kitchen,1,1019,560
+ORD00964,1,Coffee Mug,Home & Kitchen,3,305,110
+ORD00965,1,Sunglasses,Accessories,2,575,260
+ORD00965,2,Men's Sneakers,Footwear,4,1247,780
+ORD00965,3,Men's Wallet,Accessories,1,287,120
+ORD00966,1,Women's Sandals,Footwear,3,917,500
+ORD00967,1,Smartphone,Electronics,3,15299,12500
+ORD00968,1,Men's Shirt,Clothing,2,713,350
+ORD00969,1,Women's Sandals,Footwear,3,863,500
+ORD00970,1,Men's Wallet,Accessories,1,299,120
+ORD00971,1,Bedsheet,Home & Kitchen,2,999,560
+ORD00972,1,Water Bottle,Home & Kitchen,4,407,180
+ORD00973,1,Power Bank,Electronics,5,1019,580
+ORD00974,1,Men's T-Shirt,Clothing,5,509,280
+ORD00975,1,Women's Sandals,Footwear,3,863,500
+ORD00975,2,Backpack,Accessories,1,863,480
+ORD00975,3,Men's Wallet,Accessories,5,287,120
+ORD00976,1,Water Bottle,Home & Kitchen,5,399,180
+ORD00977,1,Coffee Mug,Home & Kitchen,5,305,110
+ORD00978,1,Sunglasses,Accessories,5,599,260
+ORD00978,2,Water Bottle,Home & Kitchen,3,399,180
+ORD00978,3,Bedsheet,Home & Kitchen,2,999,560
+ORD00979,1,Power Bank,Electronics,4,999,580
+ORD00979,2,Men's Jeans,Clothing,4,999,570
+ORD00980,1,Men's Wallet,Accessories,5,287,120
+ORD00981,1,Water Bottle,Home & Kitchen,3,375,180
+ORD00981,2,Backpack,Accessories,4,845,480
+ORD00982,1,Women's Sandals,Footwear,3,899,500
+ORD00982,2,Bluetooth Earbuds,Electronics,2,1599,950
+ORD00982,3,Bedsheet,Home & Kitchen,5,999,560
+ORD00983,1,Backpack,Accessories,4,917,480
+ORD00983,2,Power Bank,Electronics,4,1019,580
+ORD00983,3,Men's Shirt,Clothing,3,713,350
+ORD00984,1,Bedsheet,Home & Kitchen,3,999,560
+ORD00985,1,Men's Wallet,Accessories,5,305,120
+ORD00986,1,Men's Jeans,Clothing,3,999,570
+ORD00986,2,Women's Sandals,Footwear,1,899,500
+ORD00987,1,Men's Watch,Accessories,1,1499,850
+ORD00988,1,Women's Sandals,Footwear,1,863,500
+ORD00989,1,Bluetooth Earbuds,Electronics,4,1599,950
+ORD00989,2,Men's Jeans,Clothing,2,999,570
+ORD00989,3,Men's Wallet,Accessories,4,299,120
+ORD00990,1,Men's Sneakers,Footwear,4,1325,780
+ORD00991,1,Women's Kurti,Clothing,2,751,430
+ORD00991,2,Men's Sneakers,Footwear,4,1221,780
+ORD00992,1,Men's Sneakers,Footwear,4,1299,780
+ORD00992,2,Women's Sandals,Footwear,4,899,500
+ORD00992,3,Men's Shirt,Clothing,1,699,350
+ORD00993,1,Women's Sandals,Footwear,4,917,500
+ORD00993,2,Backpack,Accessories,4,917,480
+ORD00993,3,Power Bank,Electronics,5,1019,580
+ORD00994,1,Bluetooth Earbuds,Electronics,2,1599,950
+ORD00995,1,Water Bottle,Home & Kitchen,1,375,180
+ORD00996,1,Men's Wallet,Accessories,5,287,120
+ORD00996,2,Women's Kurti,Clothing,1,767,430
+ORD00996,3,Bedsheet,Home & Kitchen,2,959,560
+ORD00997,1,Sunglasses,Accessories,3,575,260
+ORD00998,1,Power Bank,Electronics,4,939,580
+ORD00999,1,Smartphone,Electronics,4,14099,12500
+ORD01000,1,Men's T-Shirt,Clothing,4,509,280
+ORD00004,1,Power Bank,Electronics,5,1019,580
