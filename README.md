@@ -145,6 +145,7 @@ Generated visualizations include:
 - Sales by State
 
 ## Power BI Dashboard
+![E-Commerce Sales Analysis Dashboard](images/powerbi_dashboard.png)
 
 The Power BI dashboard provides an interactive view of:
 
